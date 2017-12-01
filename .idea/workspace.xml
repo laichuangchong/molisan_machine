@@ -34,12 +34,9 @@
           <file leaf-file-name="component.js" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/subscription/component.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="975">
+                <state relative-caret-position="1380">
                   <caret line="92" column="12" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="12" />
-                  <folding>
-                    <element signature="n#!!doc" expanded="true" />
-                    <element signature="e#51#77#0" expanded="true" />
-                  </folding>
+                  <folding />
                 </state>
               </provider>
             </entry>
@@ -47,7 +44,7 @@
           <file leaf-file-name="add.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/machine/add.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3921">
+                <state relative-caret-position="681">
                   <caret line="447" column="11" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="11" />
                   <folding>
                     <element signature="e#52#78#0" expanded="true" />
@@ -231,38 +228,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="machine" />
+              <option name="myItemId" value="molisan_machine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="machine" />
+              <option name="myItemId" value="molisan_machine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="machine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="machine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="molisan_machine" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -732,11 +715,12 @@
       <workItem from="1512094905556" duration="1554000" />
       <workItem from="1512113183711" duration="9000" />
       <workItem from="1512113281036" duration="164000" />
+      <workItem from="1512114339051" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="117428000" />
+    <option name="totallyTimeSpent" value="117440000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="808" extended-state="6" />
@@ -796,29 +780,75 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/subscription/component.js">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/machine/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="447" column="11" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="11" />
+          <folding>
+            <element signature="e#52#78#0" expanded="true" />
+            <element signature="e#3578#4665#0" expanded="false" />
+            <element signature="n#!!block;n#removeItem#0;n#MachineAdd#0" expanded="false" />
+            <element signature="e#9185#11107#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advertisement/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
+          <folding>
+            <element signature="e#51#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/advertisement/add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="162" column="42" selection-start-line="162" selection-start-column="42" selection-end-line="162" selection-end-column="42" />
+          <folding>
             <element signature="e#51#77#0" expanded="true" />
+            <element signature="n#!!block;n#removeItem#0;n#AdvertisementAdd#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/subscription/component.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/subscription/component.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
           <caret line="92" column="12" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="12" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#51#77#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/machine/add.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3921">
+        <state relative-caret-position="681">
           <caret line="447" column="11" selection-start-line="447" selection-start-column="8" selection-end-line="447" selection-end-column="11" />
           <folding>
             <element signature="e#52#78#0" expanded="true" />
