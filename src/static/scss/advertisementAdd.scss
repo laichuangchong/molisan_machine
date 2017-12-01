@@ -1,0 +1,12 @@
+@import "base";
+
+.weui-tab {
+  position: initial;
+  .weui-navbar {
+    position: initial;
+  }
+  .weui-tab__panel {
+    display:block;
+    padding-top: 10px;
+  }
+}

@@ -1,0 +1,157 @@
+.ellopsis {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden; }
+
+.clamp_ellipsis:after {
+  content: "...";
+  font-weight: bold;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 0 20px 1px 45px;
+  background: url(http://www.css88.com/wp-content/uploads/2014/09/ellipsis_bg.png) repeat-y; }
+
+.modal-close {
+  display: block;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 20px;
+  height: 20px;
+  cursor: pointer; }
+
+.modal-close:before, .modal-close:after {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 20px;
+  background: #ffffff;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  top: 0;
+  left: 10px; }
+
+.modal-close:after {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg); }
+
+.back {
+  display: inline-block;
+  position: relative;
+  width: 23px;
+  height: 23px;
+  cursor: pointer;
+  vertical-align: middle; }
+
+.back:after, .back:before {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 13px;
+  background: #ffffff;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  top: 0;
+  left: 10px; }
+
+.back:before {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  top: 8px; }
+
+.down {
+  display: inline-block;
+  position: relative;
+  width: 23px;
+  height: 14px;
+  cursor: pointer;
+  vertical-align: middle; }
+
+.down:after, .down:before {
+  content: "";
+  display: block;
+  width: 2px;
+  height: 13px;
+  background: #ffffff;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+  position: absolute;
+  top: 0;
+  left: 18px; }
+
+.down:before {
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+  top: 0;
+  left: 9px; }
+
+.clearfix:after {
+  clear: both;
+  display: block;
+  content: ""; }
+
+.pull-left {
+  float: left; }
+
+.pull-right {
+  float: right; }
+
+.gray {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray; }
+
+.weui-tab {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  height: auto; }
+  .weui-tab .weui-tab__panel {
+    display: none; }
+  .weui-tab a {
+    display: block; }
+
+.weui-btn + button.weui-btn {
+  margin-top: 0; }
+
+.weui-media-box_appmsg {
+  display: block; }
+  .weui-media-box_appmsg a {
+    display: block;
+    color: #000; }
+
+.weui-grid {
+  font-size: 14px; }
+
+.weui-grid__label {
+  text-align: left; }
+
+.weui-cell__bd {
+  color: #000; }
+
+/*# sourceMappingURL=common.css.map */

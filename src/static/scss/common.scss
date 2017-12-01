@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+@import "base.scss";
+.gray {
+  -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+
+  filter: grayscale(100%);
+
+  filter: gray;
+}
+.weui-tab {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+  height:auto;
+  .weui-tab__panel {
+    display:none;
+  }
+  a {
+    display:block;
+  }
+}
+.weui-btn + button.weui-btn {
+  margin-top:0 ;
+}
+.weui-media-box_appmsg {
+  display:block;
+  a {
+    display:block;
+    color:#000;
+  }
+}
+.weui-grid {
+  font-size: 14px;
+}
+.weui-grid__label {
+  text-align: left;
+}
+.weui-cell__bd {
+  color: #000;
+}
