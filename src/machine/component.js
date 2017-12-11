@@ -2,6 +2,7 @@
  * Created by chenzhongying on 2017/11/15.
  */
 import React from 'react';
+import {connect} from 'react-redux';
 import weui from 'weui.js';
 import {Router, Route, IndexRoute, Link, browserHistory,hashHistory, Location} from 'react-router';
 import {
@@ -22,53 +23,23 @@ import {
     Label
 } from 'react-weui/build/packages';
 import store from '../store';
-import {skip,top,rooturl,xhrurl} from '../static/js/common';
-class Matchine extends React.Component{
+import {initskip, inittop, xhrurl, XHR} from '../static/js/common';
+class MatchineUi extends React.Component{
     constructor(props){
         super(props);
         this.state={
             Province : '',
-            City: ''
+            City: '',
+            results:[]
         }
+    }
+    componentWillReceiveProps(props){
+        console.log(props);
     }
     chooseProvince() {
         const _this = this;
         // 级联picker
-        weui.picker([
-            {
-                label: '山东',
-                value: 0,
-                children: [
-                    {
-                        label: '济南',
-                        value: 1
-                    },
-                    {
-                        label: '威海',
-                        value: 2
-                    }
-                ]
-            },
-            {
-                label: '河北',
-                value: 1,
-                children: [
-                    {
-                        label: '石家庄',
-                        value: 1,
-                        disabled: true // 不可用
-                    },
-                    {
-                        label: '北戴河',
-                        value: 2
-                    },
-                    {
-                        label: '廊坊',
-                        value: 3
-                    }
-                ]
-            }
-        ], {
+        weui.picker(this.props.locations.locations, {
             className: 'custom-classname',
             container: 'body',
             defaultValue: [1, 3],
@@ -87,13 +58,26 @@ class Matchine extends React.Component{
     }
 
     componentDidMount(){
-        store.dispatch({
+        let _this = this;
+        store.dispatch({ //导航状态
             type:'TABBAR',
             tab:'machine'
-        })
+        });
+        $.ajax({ //测试数据
+            url:'./machine.json',
+            complete:function(response){
+                console.log(response);
+                const results = JSON.parse(response.responseText).value;
+                _this.setState({
+                    results:results
+                });
+            }
+        });
+
     }
     render(){
         return(
+
             <div>
                 <FormCell>
                     <CellHeader>
@@ -130,6 +114,18 @@ class Matchine extends React.Component{
                                 <Link to={'/machine/edit/5'}>22222</Link>
                             </MediaBoxBody>
                         </MediaBox>
+                        {
+                            this.state.results.map((item, index) => {
+                                return (
+                                    <MediaBox type="appmsg">
+                                        <MediaBoxBody>
+                                            <Link
+                                                to={'/machine/edit/' + item.VendingMachineId}>{item.Name}</Link>
+                                        </MediaBoxBody>
+                                    </MediaBox>
+                                )
+                            })
+                        }
                     </PanelBody>
                 </Panel>
             </div>
@@ -137,4 +133,13 @@ class Matchine extends React.Component{
         )
     }
 }
+function mapStateToProps(state){
+    return {
+        locations:state.locations
+    }
+}
+const Matchine = connect(
+    mapStateToProps
+)(MatchineUi);
+
 export default Matchine

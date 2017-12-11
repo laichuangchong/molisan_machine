@@ -1,0 +1,3416 @@
+{
+  "@odata.context": "http://promotion.molisan.cn/odata/$metadata#Cities",
+  "value": [
+    {
+      "CityId": 110100,
+      "ProvinceId": 110000,
+      "Name": "北京",
+      "Spell": "Beijing",
+      "Longitude": "116.400000",
+      "Latitude": "39.900000",
+      "Firstletter": "bj"
+    },
+    {
+      "CityId": 120100,
+      "ProvinceId": 120000,
+      "Name": "天津",
+      "Spell": "Tianjin",
+      "Longitude": "117.200000",
+      "Latitude": "39.120000",
+      "Firstletter": "tj"
+    },
+    {
+      "CityId": 130100,
+      "ProvinceId": 130000,
+      "Name": "石家庄",
+      "Spell": "Shijiazhuang",
+      "Longitude": "114.520000",
+      "Latitude": "38.050000",
+      "Firstletter": "sjz"
+    },
+    {
+      "CityId": 130200,
+      "ProvinceId": 130000,
+      "Name": "唐山",
+      "Spell": "Tangshan",
+      "Longitude": "118.200000",
+      "Latitude": "39.630000",
+      "Firstletter": "ts"
+    },
+    {
+      "CityId": 130300,
+      "ProvinceId": 130000,
+      "Name": "秦皇岛",
+      "Spell": "Qinhuangdao",
+      "Longitude": "119.600000",
+      "Latitude": "39.930000",
+      "Firstletter": "qhd"
+    },
+    {
+      "CityId": 130400,
+      "ProvinceId": 130000,
+      "Name": "邯郸",
+      "Spell": "Handan",
+      "Longitude": "114.470000",
+      "Latitude": "36.600000",
+      "Firstletter": "hd"
+    },
+    {
+      "CityId": 130500,
+      "ProvinceId": 130000,
+      "Name": "邢台",
+      "Spell": "Xingtai",
+      "Longitude": "114.480000",
+      "Latitude": "37.050000",
+      "Firstletter": "xt"
+    },
+    {
+      "CityId": 130600,
+      "ProvinceId": 130000,
+      "Name": "保定",
+      "Spell": "Baoding",
+      "Longitude": "115.470000",
+      "Latitude": "38.870000",
+      "Firstletter": "bd"
+    },
+    {
+      "CityId": 130700,
+      "ProvinceId": 130000,
+      "Name": "张家口",
+      "Spell": "Zhangjiakou",
+      "Longitude": "114.870000",
+      "Latitude": "40.820000",
+      "Firstletter": "zjk"
+    },
+    {
+      "CityId": 130800,
+      "ProvinceId": 130000,
+      "Name": "承德",
+      "Spell": "Chengde",
+      "Longitude": "117.930000",
+      "Latitude": "40.970000",
+      "Firstletter": "cd"
+    },
+    {
+      "CityId": 130900,
+      "ProvinceId": 130000,
+      "Name": "沧州",
+      "Spell": "Cangzhou",
+      "Longitude": "116.830000",
+      "Latitude": "38.300000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 131000,
+      "ProvinceId": 130000,
+      "Name": "廊坊",
+      "Spell": "Langfang",
+      "Longitude": "116.700000",
+      "Latitude": "39.520000",
+      "Firstletter": "lf"
+    },
+    {
+      "CityId": 131100,
+      "ProvinceId": 130000,
+      "Name": "衡水",
+      "Spell": "Hengshui",
+      "Longitude": "115.680000",
+      "Latitude": "37.730000",
+      "Firstletter": "hs"
+    },
+    {
+      "CityId": 140100,
+      "ProvinceId": 140000,
+      "Name": "太原",
+      "Spell": "Taiyuan",
+      "Longitude": "112.550000",
+      "Latitude": "37.870000",
+      "Firstletter": "ty"
+    },
+    {
+      "CityId": 140200,
+      "ProvinceId": 140000,
+      "Name": "大同",
+      "Spell": "Datong",
+      "Longitude": "113.300000",
+      "Latitude": "40.120000",
+      "Firstletter": "dt"
+    },
+    {
+      "CityId": 140300,
+      "ProvinceId": 140000,
+      "Name": "阳泉",
+      "Spell": "Yangquan",
+      "Longitude": "113.570000",
+      "Latitude": "37.850000",
+      "Firstletter": "yq"
+    },
+    {
+      "CityId": 140400,
+      "ProvinceId": 140000,
+      "Name": "长治",
+      "Spell": "Changzhi",
+      "Longitude": "113.080000",
+      "Latitude": "36.180000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 140500,
+      "ProvinceId": 140000,
+      "Name": "晋城",
+      "Spell": "Jincheng",
+      "Longitude": "112.830000",
+      "Latitude": "35.500000",
+      "Firstletter": "jc"
+    },
+    {
+      "CityId": 140600,
+      "ProvinceId": 140000,
+      "Name": "朔州",
+      "Spell": "Shuozhou",
+      "Longitude": "112.430000",
+      "Latitude": "39.330000",
+      "Firstletter": "sz"
+    },
+    {
+      "CityId": 140700,
+      "ProvinceId": 140000,
+      "Name": "晋中",
+      "Spell": "Jinzhong",
+      "Longitude": "112.750000",
+      "Latitude": "37.680000",
+      "Firstletter": "jz"
+    },
+    {
+      "CityId": 140800,
+      "ProvinceId": 140000,
+      "Name": "运城",
+      "Spell": "Yuncheng",
+      "Longitude": "110.980000",
+      "Latitude": "35.020000",
+      "Firstletter": "yc"
+    },
+    {
+      "CityId": 140900,
+      "ProvinceId": 140000,
+      "Name": "忻州",
+      "Spell": "Xinzhou",
+      "Longitude": "112.730000",
+      "Latitude": "38.420000",
+      "Firstletter": "yz"
+    },
+    {
+      "CityId": 141000,
+      "ProvinceId": 140000,
+      "Name": "临汾",
+      "Spell": "Linfen",
+      "Longitude": "111.520000",
+      "Latitude": "36.080000",
+      "Firstletter": "lf"
+    },
+    {
+      "CityId": 141100,
+      "ProvinceId": 140000,
+      "Name": "吕梁",
+      "Spell": "Lvliang",
+      "Longitude": "111.130000",
+      "Latitude": "37.520000",
+      "Firstletter": "ll"
+    },
+    {
+      "CityId": 150100,
+      "ProvinceId": 150000,
+      "Name": "呼和浩特",
+      "Spell": "Huhehaote",
+      "Longitude": "111.730000",
+      "Latitude": "40.830000",
+      "Firstletter": "hhht"
+    },
+    {
+      "CityId": 150200,
+      "ProvinceId": 150000,
+      "Name": "包头",
+      "Spell": "Baotou",
+      "Longitude": "109.830000",
+      "Latitude": "40.650000",
+      "Firstletter": "bt"
+    },
+    {
+      "CityId": 150300,
+      "ProvinceId": 150000,
+      "Name": "乌海",
+      "Spell": "Wuhai",
+      "Longitude": "106.820000",
+      "Latitude": "39.670000",
+      "Firstletter": "wh"
+    },
+    {
+      "CityId": 150400,
+      "ProvinceId": 150000,
+      "Name": "赤峰",
+      "Spell": "Chifeng",
+      "Longitude": "118.920000",
+      "Latitude": "42.270000",
+      "Firstletter": "cf"
+    },
+    {
+      "CityId": 150500,
+      "ProvinceId": 150000,
+      "Name": "通辽",
+      "Spell": "Tongliao",
+      "Longitude": "122.270000",
+      "Latitude": "43.620000",
+      "Firstletter": "tl"
+    },
+    {
+      "CityId": 150600,
+      "ProvinceId": 150000,
+      "Name": "鄂尔多斯",
+      "Spell": "Eerduosi",
+      "Longitude": "109.800000",
+      "Latitude": "39.620000",
+      "Firstletter": "eeds"
+    },
+    {
+      "CityId": 150700,
+      "ProvinceId": 150000,
+      "Name": "呼伦贝尔",
+      "Spell": "Hulunbeier",
+      "Longitude": "119.770000",
+      "Latitude": "49.220000",
+      "Firstletter": "hlbe"
+    },
+    {
+      "CityId": 150800,
+      "ProvinceId": 150000,
+      "Name": "巴彦淖尔",
+      "Spell": "Bayannaoer",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "byze"
+    },
+    {
+      "CityId": 150900,
+      "ProvinceId": 150000,
+      "Name": "乌兰察布",
+      "Spell": "Wulanchabu",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "wlcs"
+    },
+    {
+      "CityId": 152200,
+      "ProvinceId": 150000,
+      "Name": "兴安盟",
+      "Spell": "Xinganmeng",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "xam"
+    },
+    {
+      "CityId": 152500,
+      "ProvinceId": 150000,
+      "Name": "锡林郭勒盟",
+      "Spell": "Xilinguolemeng",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "xlglm"
+    },
+    {
+      "CityId": 152900,
+      "ProvinceId": 150000,
+      "Name": "阿拉善盟",
+      "Spell": "Alashanmeng",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "alsm"
+    },
+    {
+      "CityId": 210100,
+      "ProvinceId": 210000,
+      "Name": "沈阳",
+      "Spell": "Shenyang",
+      "Longitude": "123.430000",
+      "Latitude": "41.800000",
+      "Firstletter": "sy"
+    },
+    {
+      "CityId": 210200,
+      "ProvinceId": 210000,
+      "Name": "大连",
+      "Spell": "Dalian",
+      "Longitude": "121.620000",
+      "Latitude": "38.920000",
+      "Firstletter": "dl"
+    },
+    {
+      "CityId": 210300,
+      "ProvinceId": 210000,
+      "Name": "鞍山",
+      "Spell": "Anshan",
+      "Longitude": "122.980000",
+      "Latitude": "41.100000",
+      "Firstletter": "as"
+    },
+    {
+      "CityId": 210400,
+      "ProvinceId": 210000,
+      "Name": "抚顺",
+      "Spell": "Fushun",
+      "Longitude": "123.970000",
+      "Latitude": "41.970000",
+      "Firstletter": "fs"
+    },
+    {
+      "CityId": 210500,
+      "ProvinceId": 210000,
+      "Name": "本溪",
+      "Spell": "Benxi",
+      "Longitude": "123.730000",
+      "Latitude": "41.300000",
+      "Firstletter": "bx"
+    },
+    {
+      "CityId": 210600,
+      "ProvinceId": 210000,
+      "Name": "丹东",
+      "Spell": "Dandong",
+      "Longitude": "124.380000",
+      "Latitude": "40.130000",
+      "Firstletter": "dd"
+    },
+    {
+      "CityId": 210700,
+      "ProvinceId": 210000,
+      "Name": "锦州",
+      "Spell": "Jinzhou",
+      "Longitude": "121.130000",
+      "Latitude": "41.100000",
+      "Firstletter": "jz"
+    },
+    {
+      "CityId": 210800,
+      "ProvinceId": 210000,
+      "Name": "营口",
+      "Spell": "Yingkou",
+      "Longitude": "122.230000",
+      "Latitude": "40.670000",
+      "Firstletter": "yk"
+    },
+    {
+      "CityId": 210900,
+      "ProvinceId": 210000,
+      "Name": "阜新",
+      "Spell": "Fuxin",
+      "Longitude": "121.650000",
+      "Latitude": "42.000000",
+      "Firstletter": "fx"
+    },
+    {
+      "CityId": 211000,
+      "ProvinceId": 210000,
+      "Name": "辽阳",
+      "Spell": "Liaoyang",
+      "Longitude": "123.170000",
+      "Latitude": "41.280000",
+      "Firstletter": "ly"
+    },
+    {
+      "CityId": 211100,
+      "ProvinceId": 210000,
+      "Name": "盘锦",
+      "Spell": "Panjin",
+      "Longitude": "122.070000",
+      "Latitude": "41.120000",
+      "Firstletter": "pj"
+    },
+    {
+      "CityId": 211200,
+      "ProvinceId": 210000,
+      "Name": "铁岭",
+      "Spell": "Tieling",
+      "Longitude": "123.850000",
+      "Latitude": "42.320000",
+      "Firstletter": "tl"
+    },
+    {
+      "CityId": 211300,
+      "ProvinceId": 210000,
+      "Name": "朝阳",
+      "Spell": "Chaoyang",
+      "Longitude": "120.420000",
+      "Latitude": "41.580000",
+      "Firstletter": "cy"
+    },
+    {
+      "CityId": 211400,
+      "ProvinceId": 210000,
+      "Name": "葫芦岛",
+      "Spell": "Huludao",
+      "Longitude": "120.830000",
+      "Latitude": "40.720000",
+      "Firstletter": "hld"
+    },
+    {
+      "CityId": 220100,
+      "ProvinceId": 220000,
+      "Name": "长春",
+      "Spell": "Changchun",
+      "Longitude": "125.320000",
+      "Latitude": "43.900000",
+      "Firstletter": "cc"
+    },
+    {
+      "CityId": 220200,
+      "ProvinceId": 220000,
+      "Name": "吉林",
+      "Spell": "Jilin",
+      "Longitude": "126.550000",
+      "Latitude": "43.830000",
+      "Firstletter": "jl"
+    },
+    {
+      "CityId": 220300,
+      "ProvinceId": 220000,
+      "Name": "四平",
+      "Spell": "Siping",
+      "Longitude": "124.350000",
+      "Latitude": "43.170000",
+      "Firstletter": "sp"
+    },
+    {
+      "CityId": 220400,
+      "ProvinceId": 220000,
+      "Name": "辽源",
+      "Spell": "Liaoyuan",
+      "Longitude": "125.130000",
+      "Latitude": "42.880000",
+      "Firstletter": "ly"
+    },
+    {
+      "CityId": 220500,
+      "ProvinceId": 220000,
+      "Name": "通化",
+      "Spell": "Tonghua",
+      "Longitude": "125.920000",
+      "Latitude": "41.490000",
+      "Firstletter": "th"
+    },
+    {
+      "CityId": 220600,
+      "ProvinceId": 220000,
+      "Name": "白山",
+      "Spell": "Baishan",
+      "Longitude": "126.420000",
+      "Latitude": "41.930000",
+      "Firstletter": "bs"
+    },
+    {
+      "CityId": 220700,
+      "ProvinceId": 220000,
+      "Name": "松原",
+      "Spell": "Songyuan",
+      "Longitude": "124.820000",
+      "Latitude": "45.130000",
+      "Firstletter": "sy"
+    },
+    {
+      "CityId": 220800,
+      "ProvinceId": 220000,
+      "Name": "白城",
+      "Spell": "Baicheng",
+      "Longitude": "122.830000",
+      "Latitude": "45.620000",
+      "Firstletter": "bc"
+    },
+    {
+      "CityId": 222400,
+      "ProvinceId": 220000,
+      "Name": "延边",
+      "Spell": "Yanbian",
+      "Longitude": "129.500000",
+      "Latitude": "42.880000",
+      "Firstletter": "yb"
+    },
+    {
+      "CityId": 230100,
+      "ProvinceId": 230000,
+      "Name": "哈尔滨",
+      "Spell": "Haerbin",
+      "Longitude": "126.630000",
+      "Latitude": "45.750000",
+      "Firstletter": "heb"
+    },
+    {
+      "CityId": 230200,
+      "ProvinceId": 230000,
+      "Name": "齐齐哈尔",
+      "Spell": "Qiqihaer",
+      "Longitude": "123.950000",
+      "Latitude": "47.330000",
+      "Firstletter": "qqhe"
+    },
+    {
+      "CityId": 230300,
+      "ProvinceId": 230000,
+      "Name": "鸡西",
+      "Spell": "Jixi",
+      "Longitude": "130.970000",
+      "Latitude": "45.300000",
+      "Firstletter": "jx"
+    },
+    {
+      "CityId": 230400,
+      "ProvinceId": 230000,
+      "Name": "鹤岗",
+      "Spell": "Hegang",
+      "Longitude": "130.270000",
+      "Latitude": "47.330000",
+      "Firstletter": "hg"
+    },
+    {
+      "CityId": 230500,
+      "ProvinceId": 230000,
+      "Name": "双鸭山",
+      "Spell": "Shuangyashan",
+      "Longitude": "131.150000",
+      "Latitude": "46.630000",
+      "Firstletter": "sys"
+    },
+    {
+      "CityId": 230600,
+      "ProvinceId": 230000,
+      "Name": "大庆",
+      "Spell": "Daqing",
+      "Longitude": "125.030000",
+      "Latitude": "46.580000",
+      "Firstletter": "dq"
+    },
+    {
+      "CityId": 230700,
+      "ProvinceId": 230000,
+      "Name": "伊春",
+      "Spell": "Yichun",
+      "Longitude": "128.920000",
+      "Latitude": "47.730000",
+      "Firstletter": "yc"
+    },
+    {
+      "CityId": 230800,
+      "ProvinceId": 230000,
+      "Name": "佳木斯",
+      "Spell": "Jiamusi",
+      "Longitude": "130.370000",
+      "Latitude": "46.820000",
+      "Firstletter": "jms"
+    },
+    {
+      "CityId": 230900,
+      "ProvinceId": 230000,
+      "Name": "七台河",
+      "Spell": "Qitaihe",
+      "Longitude": "130.950000",
+      "Latitude": "45.780000",
+      "Firstletter": "qth"
+    },
+    {
+      "CityId": 231000,
+      "ProvinceId": 230000,
+      "Name": "牡丹江",
+      "Spell": "Mudanjiang",
+      "Longitude": "129.580000",
+      "Latitude": "44.600000",
+      "Firstletter": "mdj"
+    },
+    {
+      "CityId": 231100,
+      "ProvinceId": 230000,
+      "Name": "黑河",
+      "Spell": "Heihe",
+      "Longitude": "127.480000",
+      "Latitude": "50.250000",
+      "Firstletter": "hh"
+    },
+    {
+      "CityId": 231200,
+      "ProvinceId": 230000,
+      "Name": "绥化",
+      "Spell": "Suihua",
+      "Longitude": "126.980000",
+      "Latitude": "46.630000",
+      "Firstletter": "sh"
+    },
+    {
+      "CityId": 232700,
+      "ProvinceId": 230000,
+      "Name": "大兴安岭地区",
+      "Spell": "Daxinganlingdiqu",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "dxal"
+    },
+    {
+      "CityId": 310100,
+      "ProvinceId": 310000,
+      "Name": "上海",
+      "Spell": "Shanghai",
+      "Longitude": "121.470000",
+      "Latitude": "31.230000",
+      "Firstletter": "sh"
+    },
+    {
+      "CityId": 320100,
+      "ProvinceId": 320000,
+      "Name": "南京",
+      "Spell": "Nanjing",
+      "Longitude": "118.780000",
+      "Latitude": "32.070000",
+      "Firstletter": "nj"
+    },
+    {
+      "CityId": 320200,
+      "ProvinceId": 320000,
+      "Name": "无锡",
+      "Spell": "Wuxi",
+      "Longitude": "120.300000",
+      "Latitude": "31.570000",
+      "Firstletter": "wx"
+    },
+    {
+      "CityId": 320300,
+      "ProvinceId": 320000,
+      "Name": "徐州",
+      "Spell": "Xuzhou",
+      "Longitude": "117.180000",
+      "Latitude": "34.270000",
+      "Firstletter": "xz"
+    },
+    {
+      "CityId": 320400,
+      "ProvinceId": 320000,
+      "Name": "常州",
+      "Spell": "Changzhou",
+      "Longitude": "119.950000",
+      "Latitude": "31.780000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 320500,
+      "ProvinceId": 320000,
+      "Name": "苏州",
+      "Spell": "Suzhou",
+      "Longitude": "120.580000",
+      "Latitude": "31.300000",
+      "Firstletter": "sz"
+    },
+    {
+      "CityId": 320600,
+      "ProvinceId": 320000,
+      "Name": "南通",
+      "Spell": "Nantong",
+      "Longitude": "120.880000",
+      "Latitude": "31.980000",
+      "Firstletter": "nt"
+    },
+    {
+      "CityId": 320700,
+      "ProvinceId": 320000,
+      "Name": "连云港",
+      "Spell": "Lianyungang",
+      "Longitude": "119.160000",
+      "Latitude": "34.590000",
+      "Firstletter": "lyg"
+    },
+    {
+      "CityId": 320800,
+      "ProvinceId": 320000,
+      "Name": "淮安",
+      "Spell": "Huaian",
+      "Longitude": "119.020000",
+      "Latitude": "33.620000",
+      "Firstletter": "ha"
+    },
+    {
+      "CityId": 320900,
+      "ProvinceId": 320000,
+      "Name": "盐城",
+      "Spell": "Yancheng",
+      "Longitude": "120.150000",
+      "Latitude": "33.350000",
+      "Firstletter": "yc"
+    },
+    {
+      "CityId": 321000,
+      "ProvinceId": 320000,
+      "Name": "扬州",
+      "Spell": "Yangzhou",
+      "Longitude": "119.400000",
+      "Latitude": "32.400000",
+      "Firstletter": "yz"
+    },
+    {
+      "CityId": 321100,
+      "ProvinceId": 320000,
+      "Name": "镇江",
+      "Spell": "Zhenjiang",
+      "Longitude": "119.450000",
+      "Latitude": "32.200000",
+      "Firstletter": "zj"
+    },
+    {
+      "CityId": 321200,
+      "ProvinceId": 320000,
+      "Name": "泰州",
+      "Spell": "Taizhou",
+      "Longitude": "119.920000",
+      "Latitude": "32.450000",
+      "Firstletter": "tz"
+    },
+    {
+      "CityId": 321300,
+      "ProvinceId": 320000,
+      "Name": "宿迁",
+      "Spell": "Suqian",
+      "Longitude": "118.280000",
+      "Latitude": "33.970000",
+      "Firstletter": "sq"
+    },
+    {
+      "CityId": 330100,
+      "ProvinceId": 330000,
+      "Name": "杭州",
+      "Spell": "Hangzhou",
+      "Longitude": "120.150000",
+      "Latitude": "30.280000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 330200,
+      "ProvinceId": 330000,
+      "Name": "宁波",
+      "Spell": "Ningbo",
+      "Longitude": "121.550000",
+      "Latitude": "29.880000",
+      "Firstletter": "nb"
+    },
+    {
+      "CityId": 330300,
+      "ProvinceId": 330000,
+      "Name": "温州",
+      "Spell": "Wenzhou",
+      "Longitude": "120.700000",
+      "Latitude": "28.000000",
+      "Firstletter": "wz"
+    },
+    {
+      "CityId": 330400,
+      "ProvinceId": 330000,
+      "Name": "嘉兴",
+      "Spell": "Jiaxing",
+      "Longitude": "120.750000",
+      "Latitude": "30.750000",
+      "Firstletter": "jx"
+    },
+    {
+      "CityId": 330500,
+      "ProvinceId": 330000,
+      "Name": "湖州",
+      "Spell": "Huzhou",
+      "Longitude": "120.080000",
+      "Latitude": "30.900000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 330600,
+      "ProvinceId": 330000,
+      "Name": "绍兴",
+      "Spell": "Shaoxing",
+      "Longitude": "120.580000",
+      "Latitude": "30.010000",
+      "Firstletter": "sx"
+    },
+    {
+      "CityId": 330700,
+      "ProvinceId": 330000,
+      "Name": "金华",
+      "Spell": "Jinhua",
+      "Longitude": "119.650000",
+      "Latitude": "29.080000",
+      "Firstletter": "jh"
+    },
+    {
+      "CityId": 330800,
+      "ProvinceId": 330000,
+      "Name": "衢州",
+      "Spell": "Zuozhou",
+      "Longitude": "118.870000",
+      "Latitude": "28.930000",
+      "Firstletter": "qz"
+    },
+    {
+      "CityId": 330900,
+      "ProvinceId": 330000,
+      "Name": "舟山",
+      "Spell": "Zhoushan",
+      "Longitude": "122.200000",
+      "Latitude": "30.000000",
+      "Firstletter": "zs"
+    },
+    {
+      "CityId": 331000,
+      "ProvinceId": 330000,
+      "Name": "台州",
+      "Spell": "Taizhou",
+      "Longitude": "121.430000",
+      "Latitude": "28.680000",
+      "Firstletter": "tz"
+    },
+    {
+      "CityId": 331100,
+      "ProvinceId": 330000,
+      "Name": "丽水",
+      "Spell": "Lishui",
+      "Longitude": "119.920000",
+      "Latitude": "28.450000",
+      "Firstletter": "ls"
+    },
+    {
+      "CityId": 340100,
+      "ProvinceId": 340000,
+      "Name": "合肥",
+      "Spell": "Hefei",
+      "Longitude": "117.250000",
+      "Latitude": "31.830000",
+      "Firstletter": "hf"
+    },
+    {
+      "CityId": 340200,
+      "ProvinceId": 340000,
+      "Name": "芜湖",
+      "Spell": "Wuhu",
+      "Longitude": "118.380000",
+      "Latitude": "31.330000",
+      "Firstletter": "wh"
+    },
+    {
+      "CityId": 340300,
+      "ProvinceId": 340000,
+      "Name": "蚌埠",
+      "Spell": "Bangbu",
+      "Longitude": "117.380000",
+      "Latitude": "32.920000",
+      "Firstletter": "bb"
+    },
+    {
+      "CityId": 340400,
+      "ProvinceId": 340000,
+      "Name": "淮南",
+      "Spell": "Huainan",
+      "Longitude": "117.000000",
+      "Latitude": "32.630000",
+      "Firstletter": "hn"
+    },
+    {
+      "CityId": 340500,
+      "ProvinceId": 340000,
+      "Name": "马鞍山",
+      "Spell": "Maanshan",
+      "Longitude": "118.500000",
+      "Latitude": "31.700000",
+      "Firstletter": "mas"
+    },
+    {
+      "CityId": 340600,
+      "ProvinceId": 340000,
+      "Name": "淮北",
+      "Spell": "Huaibei",
+      "Longitude": "116.800000",
+      "Latitude": "33.950000",
+      "Firstletter": "hb"
+    },
+    {
+      "CityId": 340700,
+      "ProvinceId": 340000,
+      "Name": "铜陵",
+      "Spell": "Tongling",
+      "Longitude": "117.820000",
+      "Latitude": "30.930000",
+      "Firstletter": "tl"
+    },
+    {
+      "CityId": 340800,
+      "ProvinceId": 340000,
+      "Name": "安庆",
+      "Spell": "Anqing",
+      "Longitude": "117.050000",
+      "Latitude": "30.530000",
+      "Firstletter": "aq"
+    },
+    {
+      "CityId": 341000,
+      "ProvinceId": 340000,
+      "Name": "黄山",
+      "Spell": "Huangshan",
+      "Longitude": "118.180000",
+      "Latitude": "29.430000",
+      "Firstletter": "hs"
+    },
+    {
+      "CityId": 341100,
+      "ProvinceId": 340000,
+      "Name": "滁州",
+      "Spell": "Chuzhou",
+      "Longitude": "118.320000",
+      "Latitude": "32.300000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 341200,
+      "ProvinceId": 340000,
+      "Name": "阜阳",
+      "Spell": "Fuyang",
+      "Longitude": "115.820000",
+      "Latitude": "32.900000",
+      "Firstletter": "fy"
+    },
+    {
+      "CityId": 341300,
+      "ProvinceId": 340000,
+      "Name": "宿州",
+      "Spell": "Suzhou",
+      "Longitude": "116.980000",
+      "Latitude": "33.630000",
+      "Firstletter": "sz"
+    },
+    {
+      "CityId": 341400,
+      "ProvinceId": 340000,
+      "Name": "巢湖",
+      "Spell": "Chaohu",
+      "Longitude": "117.870000",
+      "Latitude": "31.600000",
+      "Firstletter": "ch"
+    },
+    {
+      "CityId": 341500,
+      "ProvinceId": 340000,
+      "Name": "六安",
+      "Spell": "Liuan",
+      "Longitude": "116.500000",
+      "Latitude": "31.770000",
+      "Firstletter": "la"
+    },
+    {
+      "CityId": 341600,
+      "ProvinceId": 340000,
+      "Name": "亳州",
+      "Spell": "Zuozhou",
+      "Longitude": "115.780000",
+      "Latitude": "33.850000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 341700,
+      "ProvinceId": 340000,
+      "Name": "池州",
+      "Spell": "Chizhou",
+      "Longitude": "117.480000",
+      "Latitude": "30.670000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 341800,
+      "ProvinceId": 340000,
+      "Name": "宣城",
+      "Spell": "Xuancheng",
+      "Longitude": "118.750000",
+      "Latitude": "30.950000",
+      "Firstletter": "xc"
+    },
+    {
+      "CityId": 350100,
+      "ProvinceId": 350000,
+      "Name": "福州",
+      "Spell": "Fuzhou",
+      "Longitude": "119.300000",
+      "Latitude": "26.080000",
+      "Firstletter": "fz"
+    },
+    {
+      "CityId": 350200,
+      "ProvinceId": 350000,
+      "Name": "厦门",
+      "Spell": "Xiamen",
+      "Longitude": "118.080000",
+      "Latitude": "24.480000",
+      "Firstletter": "xm"
+    },
+    {
+      "CityId": 350300,
+      "ProvinceId": 350000,
+      "Name": "莆田",
+      "Spell": "Putian",
+      "Longitude": "119.000000",
+      "Latitude": "25.430000",
+      "Firstletter": "pt"
+    },
+    {
+      "CityId": 350400,
+      "ProvinceId": 350000,
+      "Name": "三明",
+      "Spell": "Sanming",
+      "Longitude": "117.620000",
+      "Latitude": "26.270000",
+      "Firstletter": "sm"
+    },
+    {
+      "CityId": 350500,
+      "ProvinceId": 350000,
+      "Name": "泉州",
+      "Spell": "Quanzhou",
+      "Longitude": "118.670000",
+      "Latitude": "24.880000",
+      "Firstletter": "qz"
+    },
+    {
+      "CityId": 350600,
+      "ProvinceId": 350000,
+      "Name": "漳州",
+      "Spell": "Zhangzhou",
+      "Longitude": "117.650000",
+      "Latitude": "24.520000",
+      "Firstletter": "zz"
+    },
+    {
+      "CityId": 350700,
+      "ProvinceId": 350000,
+      "Name": "南平",
+      "Spell": "Nanping",
+      "Longitude": "118.170000",
+      "Latitude": "26.650000",
+      "Firstletter": "np"
+    },
+    {
+      "CityId": 350800,
+      "ProvinceId": 350000,
+      "Name": "龙岩",
+      "Spell": "Longyan",
+      "Longitude": "117.030000",
+      "Latitude": "25.100000",
+      "Firstletter": "ly"
+    },
+    {
+      "CityId": 350900,
+      "ProvinceId": 350000,
+      "Name": "宁德",
+      "Spell": "Ningde",
+      "Longitude": "119.520000",
+      "Latitude": "26.670000",
+      "Firstletter": "nd"
+    },
+    {
+      "CityId": 360100,
+      "ProvinceId": 360000,
+      "Name": "南昌",
+      "Spell": "Nanchang",
+      "Longitude": "115.890000",
+      "Latitude": "28.680000",
+      "Firstletter": "nc"
+    },
+    {
+      "CityId": 360200,
+      "ProvinceId": 360000,
+      "Name": "景德镇",
+      "Spell": "Jingdezhen",
+      "Longitude": "117.170000",
+      "Latitude": "29.270000",
+      "Firstletter": "jdz"
+    },
+    {
+      "CityId": 360300,
+      "ProvinceId": 360000,
+      "Name": "萍乡",
+      "Spell": "Pingxiang",
+      "Longitude": "113.850000",
+      "Latitude": "27.630000",
+      "Firstletter": "px"
+    },
+    {
+      "CityId": 360400,
+      "ProvinceId": 360000,
+      "Name": "九江",
+      "Spell": "Jiujiang",
+      "Longitude": "115.970000",
+      "Latitude": "29.710000",
+      "Firstletter": "jj"
+    },
+    {
+      "CityId": 360500,
+      "ProvinceId": 360000,
+      "Name": "新余",
+      "Spell": "Xinyu",
+      "Longitude": "114.920000",
+      "Latitude": "27.820000",
+      "Firstletter": "xy"
+    },
+    {
+      "CityId": 360600,
+      "ProvinceId": 360000,
+      "Name": "鹰潭",
+      "Spell": "Yingtan",
+      "Longitude": "117.070000",
+      "Latitude": "28.270000",
+      "Firstletter": "yt"
+    },
+    {
+      "CityId": 360700,
+      "ProvinceId": 360000,
+      "Name": "赣州",
+      "Spell": "Ganzhou",
+      "Longitude": "114.930000",
+      "Latitude": "25.830000",
+      "Firstletter": "gz"
+    },
+    {
+      "CityId": 360800,
+      "ProvinceId": 360000,
+      "Name": "吉安",
+      "Spell": "Jian",
+      "Longitude": "114.970000",
+      "Latitude": "27.120000",
+      "Firstletter": "ja"
+    },
+    {
+      "CityId": 360900,
+      "ProvinceId": 360000,
+      "Name": "宜春",
+      "Spell": "Yichun",
+      "Longitude": "114.380000",
+      "Latitude": "27.800000",
+      "Firstletter": "yc"
+    },
+    {
+      "CityId": 361000,
+      "ProvinceId": 360000,
+      "Name": "抚州",
+      "Spell": "Fuzhou",
+      "Longitude": "116.350000",
+      "Latitude": "28.000000",
+      "Firstletter": "fz"
+    },
+    {
+      "CityId": 361100,
+      "ProvinceId": 360000,
+      "Name": "上饶",
+      "Spell": "Shangrao",
+      "Longitude": "117.970000",
+      "Latitude": "28.470000",
+      "Firstletter": "sr"
+    },
+    {
+      "CityId": 370100,
+      "ProvinceId": 370000,
+      "Name": "济南",
+      "Spell": "Jinan",
+      "Longitude": "116.980000",
+      "Latitude": "36.670000",
+      "Firstletter": "jn"
+    },
+    {
+      "CityId": 370200,
+      "ProvinceId": 370000,
+      "Name": "青岛",
+      "Spell": "Qingdao",
+      "Longitude": "120.380000",
+      "Latitude": "36.070000",
+      "Firstletter": "qd"
+    },
+    {
+      "CityId": 370300,
+      "ProvinceId": 370000,
+      "Name": "淄博",
+      "Spell": "Zibo",
+      "Longitude": "118.050000",
+      "Latitude": "36.820000",
+      "Firstletter": "zb"
+    },
+    {
+      "CityId": 370400,
+      "ProvinceId": 370000,
+      "Name": "枣庄",
+      "Spell": "Zaozhuang",
+      "Longitude": "117.320000",
+      "Latitude": "34.820000",
+      "Firstletter": "zz"
+    },
+    {
+      "CityId": 370500,
+      "ProvinceId": 370000,
+      "Name": "东营",
+      "Spell": "Dongying",
+      "Longitude": "118.490000",
+      "Latitude": "37.460000",
+      "Firstletter": "dy"
+    },
+    {
+      "CityId": 370600,
+      "ProvinceId": 370000,
+      "Name": "烟台",
+      "Spell": "Yantai",
+      "Longitude": "121.430000",
+      "Latitude": "37.450000",
+      "Firstletter": "yt"
+    },
+    {
+      "CityId": 370700,
+      "ProvinceId": 370000,
+      "Name": "潍坊",
+      "Spell": "Weifang",
+      "Longitude": "119.150000",
+      "Latitude": "36.700000",
+      "Firstletter": "wf"
+    },
+    {
+      "CityId": 370800,
+      "ProvinceId": 370000,
+      "Name": "济宁",
+      "Spell": "Jining",
+      "Longitude": "116.580000",
+      "Latitude": "35.420000",
+      "Firstletter": "jn"
+    },
+    {
+      "CityId": 370900,
+      "ProvinceId": 370000,
+      "Name": "泰安",
+      "Spell": "Taian",
+      "Longitude": "117.080000",
+      "Latitude": "36.200000",
+      "Firstletter": "ta"
+    },
+    {
+      "CityId": 371000,
+      "ProvinceId": 370000,
+      "Name": "威海",
+      "Spell": "Weihai",
+      "Longitude": "122.120000",
+      "Latitude": "37.520000",
+      "Firstletter": "wh"
+    },
+    {
+      "CityId": 371100,
+      "ProvinceId": 370000,
+      "Name": "日照",
+      "Spell": "Rizhao",
+      "Longitude": "119.520000",
+      "Latitude": "35.420000",
+      "Firstletter": "rz"
+    },
+    {
+      "CityId": 371200,
+      "ProvinceId": 370000,
+      "Name": "莱芜",
+      "Spell": "Laiwu",
+      "Longitude": "117.670000",
+      "Latitude": "36.220000",
+      "Firstletter": "lw"
+    },
+    {
+      "CityId": 371300,
+      "ProvinceId": 370000,
+      "Name": "临沂",
+      "Spell": "Linyi",
+      "Longitude": "118.350000",
+      "Latitude": "35.050000",
+      "Firstletter": "ly"
+    },
+    {
+      "CityId": 371400,
+      "ProvinceId": 370000,
+      "Name": "德州",
+      "Spell": "Dezhou",
+      "Longitude": "116.300000",
+      "Latitude": "37.450000",
+      "Firstletter": "dz"
+    },
+    {
+      "CityId": 371500,
+      "ProvinceId": 370000,
+      "Name": "聊城",
+      "Spell": "Liaocheng",
+      "Longitude": "115.980000",
+      "Latitude": "36.450000",
+      "Firstletter": "lc"
+    },
+    {
+      "CityId": 371600,
+      "ProvinceId": 370000,
+      "Name": "滨州",
+      "Spell": "Binzhou",
+      "Longitude": "117.970000",
+      "Latitude": "37.380000",
+      "Firstletter": "bz"
+    },
+    {
+      "CityId": 371700,
+      "ProvinceId": 370000,
+      "Name": "荷泽",
+      "Spell": "Heze",
+      "Longitude": "115.430000",
+      "Latitude": "35.240000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 410100,
+      "ProvinceId": 410000,
+      "Name": "郑州",
+      "Spell": "Zhengzhou",
+      "Longitude": "113.620000",
+      "Latitude": "34.750000",
+      "Firstletter": "zz"
+    },
+    {
+      "CityId": 410200,
+      "ProvinceId": 410000,
+      "Name": "开封",
+      "Spell": "Kaifeng",
+      "Longitude": "114.350000",
+      "Latitude": "34.790000",
+      "Firstletter": "kf"
+    },
+    {
+      "CityId": 410300,
+      "ProvinceId": 410000,
+      "Name": "洛阳",
+      "Spell": "Luoyang",
+      "Longitude": "112.450000",
+      "Latitude": "34.620000",
+      "Firstletter": "ly"
+    },
+    {
+      "CityId": 410400,
+      "ProvinceId": 410000,
+      "Name": "平顶山",
+      "Spell": "Pingdingshan",
+      "Longitude": "113.180000",
+      "Latitude": "33.770000",
+      "Firstletter": "pds"
+    },
+    {
+      "CityId": 410500,
+      "ProvinceId": 410000,
+      "Name": "安阳",
+      "Spell": "Anyang",
+      "Longitude": "114.350000",
+      "Latitude": "36.100000",
+      "Firstletter": "ay"
+    },
+    {
+      "CityId": 410600,
+      "ProvinceId": 410000,
+      "Name": "鹤壁",
+      "Spell": "Hebi",
+      "Longitude": "114.280000",
+      "Latitude": "35.750000",
+      "Firstletter": "hb"
+    },
+    {
+      "CityId": 410700,
+      "ProvinceId": 410000,
+      "Name": "新乡",
+      "Spell": "Xinxiang",
+      "Longitude": "113.850000",
+      "Latitude": "35.310000",
+      "Firstletter": "xx"
+    },
+    {
+      "CityId": 410800,
+      "ProvinceId": 410000,
+      "Name": "焦作",
+      "Spell": "Jiaozuo",
+      "Longitude": "113.250000",
+      "Latitude": "35.220000",
+      "Firstletter": "jz"
+    },
+    {
+      "CityId": 410900,
+      "ProvinceId": 410000,
+      "Name": "濮阳",
+      "Spell": "Zuoyang",
+      "Longitude": "114.980000",
+      "Latitude": "35.710000",
+      "Firstletter": "py"
+    },
+    {
+      "CityId": 411000,
+      "ProvinceId": 410000,
+      "Name": "许昌",
+      "Spell": "Xuchang",
+      "Longitude": "113.810000",
+      "Latitude": "34.020000",
+      "Firstletter": "xc"
+    },
+    {
+      "CityId": 411100,
+      "ProvinceId": 410000,
+      "Name": "漯河",
+      "Spell": "Zuohe",
+      "Longitude": "114.020000",
+      "Latitude": "33.580000",
+      "Firstletter": "lh"
+    },
+    {
+      "CityId": 411200,
+      "ProvinceId": 410000,
+      "Name": "三门峡",
+      "Spell": "Sanmenxia",
+      "Longitude": "111.190000",
+      "Latitude": "34.760000",
+      "Firstletter": "smx"
+    },
+    {
+      "CityId": 411300,
+      "ProvinceId": 410000,
+      "Name": "南阳",
+      "Spell": "Nanyang",
+      "Longitude": "112.520000",
+      "Latitude": "33.000000",
+      "Firstletter": "ny"
+    },
+    {
+      "CityId": 411400,
+      "ProvinceId": 410000,
+      "Name": "商丘",
+      "Spell": "Shangqiu",
+      "Longitude": "115.650000",
+      "Latitude": "34.450000",
+      "Firstletter": "sq"
+    },
+    {
+      "CityId": 411500,
+      "ProvinceId": 410000,
+      "Name": "信阳",
+      "Spell": "Xinyang",
+      "Longitude": "114.070000",
+      "Latitude": "32.130000",
+      "Firstletter": "xy"
+    },
+    {
+      "CityId": 411600,
+      "ProvinceId": 410000,
+      "Name": "周口",
+      "Spell": "Zhoukou",
+      "Longitude": "114.650000",
+      "Latitude": "33.620000",
+      "Firstletter": "zk"
+    },
+    {
+      "CityId": 411700,
+      "ProvinceId": 410000,
+      "Name": "驻马店",
+      "Spell": "Zhumadian",
+      "Longitude": "114.020000",
+      "Latitude": "32.980000",
+      "Firstletter": "zmd"
+    },
+    {
+      "CityId": 420100,
+      "ProvinceId": 420000,
+      "Name": "武汉",
+      "Spell": "Wuhan",
+      "Longitude": "114.300000",
+      "Latitude": "30.600000",
+      "Firstletter": "wh"
+    },
+    {
+      "CityId": 420200,
+      "ProvinceId": 420000,
+      "Name": "黄石",
+      "Spell": "Huangshi",
+      "Longitude": "115.090000",
+      "Latitude": "30.200000",
+      "Firstletter": "hs"
+    },
+    {
+      "CityId": 420300,
+      "ProvinceId": 420000,
+      "Name": "十堰",
+      "Spell": "Shiyan",
+      "Longitude": "110.780000",
+      "Latitude": "32.650000",
+      "Firstletter": "sy"
+    },
+    {
+      "CityId": 420500,
+      "ProvinceId": 420000,
+      "Name": "宜昌",
+      "Spell": "Yichang",
+      "Longitude": "111.280000",
+      "Latitude": "30.700000",
+      "Firstletter": "yc"
+    },
+    {
+      "CityId": 420600,
+      "ProvinceId": 420000,
+      "Name": "襄樊",
+      "Spell": "Xiangfan",
+      "Longitude": "112.150000",
+      "Latitude": "32.020000",
+      "Firstletter": "xf"
+    },
+    {
+      "CityId": 420700,
+      "ProvinceId": 420000,
+      "Name": "鄂州",
+      "Spell": "Ezhou",
+      "Longitude": "114.880000",
+      "Latitude": "30.400000",
+      "Firstletter": "ez"
+    },
+    {
+      "CityId": 420800,
+      "ProvinceId": 420000,
+      "Name": "荆门",
+      "Spell": "Jingmen",
+      "Longitude": "112.200000",
+      "Latitude": "31.030000",
+      "Firstletter": "jm"
+    },
+    {
+      "CityId": 420900,
+      "ProvinceId": 420000,
+      "Name": "孝感",
+      "Spell": "Xiaogan",
+      "Longitude": "113.920000",
+      "Latitude": "30.930000",
+      "Firstletter": "xg"
+    },
+    {
+      "CityId": 421000,
+      "ProvinceId": 420000,
+      "Name": "荆州",
+      "Spell": "Jingzhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "jz"
+    },
+    {
+      "CityId": 421100,
+      "ProvinceId": 420000,
+      "Name": "黄冈",
+      "Spell": "Huanggang",
+      "Longitude": "114.870000",
+      "Latitude": "30.450000",
+      "Firstletter": "hg"
+    },
+    {
+      "CityId": 421200,
+      "ProvinceId": 420000,
+      "Name": "咸宁",
+      "Spell": "Xianning",
+      "Longitude": "114.320000",
+      "Latitude": "29.850000",
+      "Firstletter": "xn"
+    },
+    {
+      "CityId": 421300,
+      "ProvinceId": 420000,
+      "Name": "随州",
+      "Spell": "Suizhou",
+      "Longitude": "113.370000",
+      "Latitude": "31.720000",
+      "Firstletter": "sz"
+    },
+    {
+      "CityId": 422800,
+      "ProvinceId": 420000,
+      "Name": "恩施土家族苗族自治州",
+      "Spell": "Enshitujiazumiaozuzizhizhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "es"
+    },
+    {
+      "CityId": 429000,
+      "ProvinceId": 420000,
+      "Name": "省直辖行政单位",
+      "Spell": "Shengzhixiaxingzhengdanwei",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "——"
+    },
+    {
+      "CityId": 430100,
+      "ProvinceId": 430000,
+      "Name": "长沙",
+      "Spell": "Changsha",
+      "Longitude": "113.000000",
+      "Latitude": "28.210000",
+      "Firstletter": "cs"
+    },
+    {
+      "CityId": 430200,
+      "ProvinceId": 430000,
+      "Name": "株洲",
+      "Spell": "Zhuzhou",
+      "Longitude": "113.160000",
+      "Latitude": "27.830000",
+      "Firstletter": "zz"
+    },
+    {
+      "CityId": 430300,
+      "ProvinceId": 430000,
+      "Name": "湘潭",
+      "Spell": "Xiangtan",
+      "Longitude": "112.910000",
+      "Latitude": "27.870000",
+      "Firstletter": "xt"
+    },
+    {
+      "CityId": 430400,
+      "ProvinceId": 430000,
+      "Name": "衡阳",
+      "Spell": "Hengyang",
+      "Longitude": "112.390000",
+      "Latitude": "26.980000",
+      "Firstletter": "hy"
+    },
+    {
+      "CityId": 430500,
+      "ProvinceId": 430000,
+      "Name": "邵阳",
+      "Spell": "Shaoyang",
+      "Longitude": "111.500000",
+      "Latitude": "27.220000",
+      "Firstletter": "sy"
+    },
+    {
+      "CityId": 430600,
+      "ProvinceId": 430000,
+      "Name": "岳阳",
+      "Spell": "Yueyang",
+      "Longitude": "113.090000",
+      "Latitude": "29.370000",
+      "Firstletter": "yy"
+    },
+    {
+      "CityId": 430700,
+      "ProvinceId": 430000,
+      "Name": "常德",
+      "Spell": "Changde",
+      "Longitude": "111.680000",
+      "Latitude": "29.050000",
+      "Firstletter": "cd"
+    },
+    {
+      "CityId": 430800,
+      "ProvinceId": 430000,
+      "Name": "张家界",
+      "Spell": "Zhangjiajie",
+      "Longitude": "110.290000",
+      "Latitude": "29.080000",
+      "Firstletter": "zjj"
+    },
+    {
+      "CityId": 430900,
+      "ProvinceId": 430000,
+      "Name": "益阳",
+      "Spell": "Yiyang",
+      "Longitude": "112.320000",
+      "Latitude": "28.600000",
+      "Firstletter": "yy"
+    },
+    {
+      "CityId": 431000,
+      "ProvinceId": 430000,
+      "Name": "郴州",
+      "Spell": "Chenzhou",
+      "Longitude": "113.020000",
+      "Latitude": "25.780000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 431100,
+      "ProvinceId": 430000,
+      "Name": "永州",
+      "Spell": "Yongzhou",
+      "Longitude": "111.620000",
+      "Latitude": "26.430000",
+      "Firstletter": "yz"
+    },
+    {
+      "CityId": 431200,
+      "ProvinceId": 430000,
+      "Name": "怀化",
+      "Spell": "Huaihua",
+      "Longitude": "110.000000",
+      "Latitude": "27.570000",
+      "Firstletter": "hh"
+    },
+    {
+      "CityId": 431300,
+      "ProvinceId": 430000,
+      "Name": "娄底",
+      "Spell": "Loudi",
+      "Longitude": "112.000000",
+      "Latitude": "27.730000",
+      "Firstletter": "ld"
+    },
+    {
+      "CityId": 433100,
+      "ProvinceId": 430000,
+      "Name": "湘西土家族苗族自治州",
+      "Spell": "Xiangxitujiazumiaozuzizhizhou",
+      "Longitude": "109.730000",
+      "Latitude": "28.320000",
+      "Firstletter": "xx"
+    },
+    {
+      "CityId": 440100,
+      "ProvinceId": 440000,
+      "Name": "广州",
+      "Spell": "Guangzhou",
+      "Longitude": "113.270000",
+      "Latitude": "23.130000",
+      "Firstletter": "gz"
+    },
+    {
+      "CityId": 440200,
+      "ProvinceId": 440000,
+      "Name": "韶关",
+      "Spell": "Shaoguan",
+      "Longitude": "113.600000",
+      "Latitude": "24.820000",
+      "Firstletter": "sg"
+    },
+    {
+      "CityId": 440300,
+      "ProvinceId": 440000,
+      "Name": "深圳",
+      "Spell": "Shenzhen",
+      "Longitude": "114.050000",
+      "Latitude": "22.550000",
+      "Firstletter": "sz"
+    },
+    {
+      "CityId": 440400,
+      "ProvinceId": 440000,
+      "Name": "珠海",
+      "Spell": "Zhuhai",
+      "Longitude": "113.570000",
+      "Latitude": "22.270000",
+      "Firstletter": "zh"
+    },
+    {
+      "CityId": 440500,
+      "ProvinceId": 440000,
+      "Name": "汕头",
+      "Spell": "Shantou",
+      "Longitude": "116.680000",
+      "Latitude": "23.350000",
+      "Firstletter": "st"
+    },
+    {
+      "CityId": 440600,
+      "ProvinceId": 440000,
+      "Name": "佛山",
+      "Spell": "Foshan",
+      "Longitude": "113.120000",
+      "Latitude": "23.020000",
+      "Firstletter": "fs"
+    },
+    {
+      "CityId": 440700,
+      "ProvinceId": 440000,
+      "Name": "江门",
+      "Spell": "Jiangmen",
+      "Longitude": "113.080000",
+      "Latitude": "22.580000",
+      "Firstletter": "jm"
+    },
+    {
+      "CityId": 440800,
+      "ProvinceId": 440000,
+      "Name": "湛江",
+      "Spell": "Zhanjiang",
+      "Longitude": "110.350000",
+      "Latitude": "21.270000",
+      "Firstletter": "zj"
+    },
+    {
+      "CityId": 440900,
+      "ProvinceId": 440000,
+      "Name": "茂名",
+      "Spell": "Maoming",
+      "Longitude": "110.920000",
+      "Latitude": "21.670000",
+      "Firstletter": "mm"
+    },
+    {
+      "CityId": 441200,
+      "ProvinceId": 440000,
+      "Name": "肇庆",
+      "Spell": "Zhaoqing",
+      "Longitude": "112.470000",
+      "Latitude": "23.050000",
+      "Firstletter": "zq"
+    },
+    {
+      "CityId": 441300,
+      "ProvinceId": 440000,
+      "Name": "惠州",
+      "Spell": "Huizhou",
+      "Longitude": "114.420000",
+      "Latitude": "23.120000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 441400,
+      "ProvinceId": 440000,
+      "Name": "梅州",
+      "Spell": "Meizhou",
+      "Longitude": "116.120000",
+      "Latitude": "24.280000",
+      "Firstletter": "mz"
+    },
+    {
+      "CityId": 441500,
+      "ProvinceId": 440000,
+      "Name": "汕尾",
+      "Spell": "Shanwei",
+      "Longitude": "115.370000",
+      "Latitude": "22.780000",
+      "Firstletter": "sw"
+    },
+    {
+      "CityId": 441600,
+      "ProvinceId": 440000,
+      "Name": "河源",
+      "Spell": "Heyuan",
+      "Longitude": "114.700000",
+      "Latitude": "23.730000",
+      "Firstletter": "hy"
+    },
+    {
+      "CityId": 441700,
+      "ProvinceId": 440000,
+      "Name": "阳江",
+      "Spell": "Yangjiang",
+      "Longitude": "111.980000",
+      "Latitude": "21.870000",
+      "Firstletter": "yj"
+    },
+    {
+      "CityId": 441800,
+      "ProvinceId": 440000,
+      "Name": "清远",
+      "Spell": "Qingyuan",
+      "Longitude": "113.030000",
+      "Latitude": "23.700000",
+      "Firstletter": "qy"
+    },
+    {
+      "CityId": 441900,
+      "ProvinceId": 440000,
+      "Name": "东莞",
+      "Spell": "Dongguan",
+      "Longitude": "113.750000",
+      "Latitude": "23.050000",
+      "Firstletter": "dg"
+    },
+    {
+      "CityId": 442000,
+      "ProvinceId": 440000,
+      "Name": "中山",
+      "Spell": "Zhongshan",
+      "Longitude": "113.380000",
+      "Latitude": "22.520000",
+      "Firstletter": "zs"
+    },
+    {
+      "CityId": 445100,
+      "ProvinceId": 440000,
+      "Name": "潮州",
+      "Spell": "Chaozhou",
+      "Longitude": "116.620000",
+      "Latitude": "23.670000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 445200,
+      "ProvinceId": 440000,
+      "Name": "揭阳",
+      "Spell": "Jieyang",
+      "Longitude": "116.370000",
+      "Latitude": "23.550000",
+      "Firstletter": "jy"
+    },
+    {
+      "CityId": 445300,
+      "ProvinceId": 440000,
+      "Name": "云浮",
+      "Spell": "Yunfu",
+      "Longitude": "112.030000",
+      "Latitude": "22.920000",
+      "Firstletter": "yf"
+    },
+    {
+      "CityId": 450100,
+      "ProvinceId": 450000,
+      "Name": "南宁",
+      "Spell": "Nanning",
+      "Longitude": "108.370000",
+      "Latitude": "22.820000",
+      "Firstletter": "nn"
+    },
+    {
+      "CityId": 450200,
+      "ProvinceId": 450000,
+      "Name": "柳州",
+      "Spell": "Liuzhou",
+      "Longitude": "109.420000",
+      "Latitude": "24.330000",
+      "Firstletter": "lz"
+    },
+    {
+      "CityId": 450300,
+      "ProvinceId": 450000,
+      "Name": "桂林",
+      "Spell": "Guilin",
+      "Longitude": "110.280000",
+      "Latitude": "25.280000",
+      "Firstletter": "gl"
+    },
+    {
+      "CityId": 450400,
+      "ProvinceId": 450000,
+      "Name": "梧州",
+      "Spell": "Wuzhou",
+      "Longitude": "111.270000",
+      "Latitude": "23.480000",
+      "Firstletter": "wz"
+    },
+    {
+      "CityId": 450500,
+      "ProvinceId": 450000,
+      "Name": "北海",
+      "Spell": "Beihai",
+      "Longitude": "109.120000",
+      "Latitude": "21.480000",
+      "Firstletter": "bh"
+    },
+    {
+      "CityId": 450600,
+      "ProvinceId": 450000,
+      "Name": "防城港",
+      "Spell": "Fangchenggang",
+      "Longitude": "108.350000",
+      "Latitude": "21.780000",
+      "Firstletter": "fcg"
+    },
+    {
+      "CityId": 450700,
+      "ProvinceId": 450000,
+      "Name": "钦州",
+      "Spell": "Qinzhou",
+      "Longitude": "108.620000",
+      "Latitude": "21.950000",
+      "Firstletter": "qz"
+    },
+    {
+      "CityId": 450800,
+      "ProvinceId": 450000,
+      "Name": "贵港",
+      "Spell": "Guigang",
+      "Longitude": "109.600000",
+      "Latitude": "23.100000",
+      "Firstletter": "gg"
+    },
+    {
+      "CityId": 450900,
+      "ProvinceId": 450000,
+      "Name": "玉林",
+      "Spell": "Yulin",
+      "Longitude": "110.170000",
+      "Latitude": "22.630000",
+      "Firstletter": "yl"
+    },
+    {
+      "CityId": 451000,
+      "ProvinceId": 450000,
+      "Name": "百色",
+      "Spell": "Baise",
+      "Longitude": "106.620000",
+      "Latitude": "23.900000",
+      "Firstletter": "bs"
+    },
+    {
+      "CityId": 451100,
+      "ProvinceId": 450000,
+      "Name": "贺州",
+      "Spell": "Hezhou",
+      "Longitude": "111.550000",
+      "Latitude": "24.420000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 451200,
+      "ProvinceId": 450000,
+      "Name": "河池",
+      "Spell": "Hechi",
+      "Longitude": "108.070000",
+      "Latitude": "24.700000",
+      "Firstletter": "hc"
+    },
+    {
+      "CityId": 451300,
+      "ProvinceId": 450000,
+      "Name": "来宾",
+      "Spell": "Laibin",
+      "Longitude": "109.230000",
+      "Latitude": "23.730000",
+      "Firstletter": "lb"
+    },
+    {
+      "CityId": 451400,
+      "ProvinceId": 450000,
+      "Name": "崇左",
+      "Spell": "Chongzuo",
+      "Longitude": "107.370000",
+      "Latitude": "22.400000",
+      "Firstletter": "cz"
+    },
+    {
+      "CityId": 460100,
+      "ProvinceId": 460000,
+      "Name": "海口",
+      "Spell": "Haikou",
+      "Longitude": "110.320000",
+      "Latitude": "20.030000",
+      "Firstletter": "hk"
+    },
+    {
+      "CityId": 460200,
+      "ProvinceId": 460000,
+      "Name": "三亚",
+      "Spell": "Sanya",
+      "Longitude": "109.500000",
+      "Latitude": "18.250000",
+      "Firstletter": "sy"
+    },
+    {
+      "CityId": 460300,
+      "ProvinceId": 460000,
+      "Name": "五指山",
+      "Spell": "Wuzhishan",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "wzs"
+    },
+    {
+      "CityId": 460400,
+      "ProvinceId": 460000,
+      "Name": "琼海",
+      "Spell": "Qionghai",
+      "Longitude": "110.460000",
+      "Latitude": "19.250000",
+      "Firstletter": "qh"
+    },
+    {
+      "CityId": 460500,
+      "ProvinceId": 460000,
+      "Name": "儋州",
+      "Spell": "Zhanzhou",
+      "Longitude": "109.340000",
+      "Latitude": "19.310000",
+      "Firstletter": "dz"
+    },
+    {
+      "CityId": 460600,
+      "ProvinceId": 460000,
+      "Name": "文昌",
+      "Spell": "Wenchang",
+      "Longitude": "110.720000",
+      "Latitude": "19.610000",
+      "Firstletter": "wc"
+    },
+    {
+      "CityId": 460700,
+      "ProvinceId": 460000,
+      "Name": "万宁",
+      "Spell": "Wanning",
+      "Longitude": "110.390000",
+      "Latitude": "18.800000",
+      "Firstletter": "wn"
+    },
+    {
+      "CityId": 460800,
+      "ProvinceId": 460000,
+      "Name": "东方",
+      "Spell": "Dongfang",
+      "Longitude": "108.640000",
+      "Latitude": "19.090000",
+      "Firstletter": "df"
+    },
+    {
+      "CityId": 460900,
+      "ProvinceId": 460000,
+      "Name": "定安县",
+      "Spell": "Dinganxian",
+      "Longitude": "110.310000",
+      "Latitude": "19.680000",
+      "Firstletter": "dax"
+    },
+    {
+      "CityId": 461000,
+      "ProvinceId": 460000,
+      "Name": "屯昌县",
+      "Spell": null,
+      "Longitude": "110.100000",
+      "Latitude": "19.360000",
+      "Firstletter": "tcx"
+    },
+    {
+      "CityId": 461100,
+      "ProvinceId": 460000,
+      "Name": "澄迈县",
+      "Spell": null,
+      "Longitude": "110.000000",
+      "Latitude": "19.750000",
+      "Firstletter": "dmx"
+    },
+    {
+      "CityId": 461200,
+      "ProvinceId": 460000,
+      "Name": "临高县",
+      "Spell": null,
+      "Longitude": "109.690000",
+      "Latitude": "19.910000",
+      "Firstletter": "lgx"
+    },
+    {
+      "CityId": 461300,
+      "ProvinceId": 460000,
+      "Name": "白沙县",
+      "Spell": null,
+      "Longitude": "109.440000",
+      "Latitude": "19.230000",
+      "Firstletter": "bsx"
+    },
+    {
+      "CityId": 461400,
+      "ProvinceId": 460000,
+      "Name": "昌江县",
+      "Spell": null,
+      "Longitude": "109.030000",
+      "Latitude": "19.250000",
+      "Firstletter": "cjx"
+    },
+    {
+      "CityId": 461500,
+      "ProvinceId": 460000,
+      "Name": "乐东县",
+      "Spell": null,
+      "Longitude": "109.170000",
+      "Latitude": "18.730000",
+      "Firstletter": "ldx"
+    },
+    {
+      "CityId": 461600,
+      "ProvinceId": 460000,
+      "Name": "陵水县",
+      "Spell": null,
+      "Longitude": "110.020000",
+      "Latitude": "18.480000",
+      "Firstletter": "lsx"
+    },
+    {
+      "CityId": 461700,
+      "ProvinceId": 460000,
+      "Name": "保亭县",
+      "Spell": null,
+      "Longitude": "109.700000",
+      "Latitude": "18.640000",
+      "Firstletter": "btx"
+    },
+    {
+      "CityId": 461800,
+      "ProvinceId": 460000,
+      "Name": "琼中县",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "qzx"
+    },
+    {
+      "CityId": 469000,
+      "ProvinceId": 460000,
+      "Name": "办事处",
+      "Spell": "Banshichu",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "——"
+    },
+    {
+      "CityId": 500100,
+      "ProvinceId": 500000,
+      "Name": "重庆",
+      "Spell": "Chongqing",
+      "Longitude": "106.550000",
+      "Latitude": "29.570000",
+      "Firstletter": "cq"
+    },
+    {
+      "CityId": 510100,
+      "ProvinceId": 510000,
+      "Name": "成都",
+      "Spell": "Chengdu",
+      "Longitude": "104.070000",
+      "Latitude": "30.670000",
+      "Firstletter": "cd"
+    },
+    {
+      "CityId": 510300,
+      "ProvinceId": 510000,
+      "Name": "自贡",
+      "Spell": "Zigong",
+      "Longitude": "104.780000",
+      "Latitude": "29.350000",
+      "Firstletter": "zg"
+    },
+    {
+      "CityId": 510400,
+      "ProvinceId": 510000,
+      "Name": "攀枝花",
+      "Spell": "Panzhihua",
+      "Longitude": "101.720000",
+      "Latitude": "26.580000",
+      "Firstletter": "pzh"
+    },
+    {
+      "CityId": 510500,
+      "ProvinceId": 510000,
+      "Name": "泸州",
+      "Spell": "Zuozhou",
+      "Longitude": "105.430000",
+      "Latitude": "28.870000",
+      "Firstletter": "lz"
+    },
+    {
+      "CityId": 510600,
+      "ProvinceId": 510000,
+      "Name": "德阳",
+      "Spell": "Deyang",
+      "Longitude": "104.380000",
+      "Latitude": "31.130000",
+      "Firstletter": "dy"
+    },
+    {
+      "CityId": 510700,
+      "ProvinceId": 510000,
+      "Name": "绵阳",
+      "Spell": "Mianyang",
+      "Longitude": "104.730000",
+      "Latitude": "31.470000",
+      "Firstletter": "my"
+    },
+    {
+      "CityId": 510800,
+      "ProvinceId": 510000,
+      "Name": "广元",
+      "Spell": "Guangyuan",
+      "Longitude": "105.830000",
+      "Latitude": "32.430000",
+      "Firstletter": "gy"
+    },
+    {
+      "CityId": 510900,
+      "ProvinceId": 510000,
+      "Name": "遂宁",
+      "Spell": "Suining",
+      "Longitude": "105.570000",
+      "Latitude": "30.520000",
+      "Firstletter": "sn"
+    },
+    {
+      "CityId": 511000,
+      "ProvinceId": 510000,
+      "Name": "内江",
+      "Spell": "Neijiang",
+      "Longitude": "105.050000",
+      "Latitude": "29.580000",
+      "Firstletter": "nj"
+    },
+    {
+      "CityId": 511100,
+      "ProvinceId": 510000,
+      "Name": "乐山",
+      "Spell": "Leshan",
+      "Longitude": "103.770000",
+      "Latitude": "29.570000",
+      "Firstletter": "ls"
+    },
+    {
+      "CityId": 511300,
+      "ProvinceId": 510000,
+      "Name": "南充",
+      "Spell": "Nanchong",
+      "Longitude": "106.080000",
+      "Latitude": "30.780000",
+      "Firstletter": "nc"
+    },
+    {
+      "CityId": 511400,
+      "ProvinceId": 510000,
+      "Name": "眉山",
+      "Spell": "Meishan",
+      "Longitude": "103.290000",
+      "Latitude": "29.360000",
+      "Firstletter": "ms"
+    },
+    {
+      "CityId": 511500,
+      "ProvinceId": 510000,
+      "Name": "宜宾",
+      "Spell": "Yibin",
+      "Longitude": "104.560000",
+      "Latitude": "29.770000",
+      "Firstletter": "yb"
+    },
+    {
+      "CityId": 511600,
+      "ProvinceId": 510000,
+      "Name": "广安",
+      "Spell": "Guangan",
+      "Longitude": "106.610000",
+      "Latitude": "30.480000",
+      "Firstletter": "ga"
+    },
+    {
+      "CityId": 511700,
+      "ProvinceId": 510000,
+      "Name": "达州",
+      "Spell": "Dazhou",
+      "Longitude": "107.500000",
+      "Latitude": "31.220000",
+      "Firstletter": "dz"
+    },
+    {
+      "CityId": 511800,
+      "ProvinceId": 510000,
+      "Name": "雅安",
+      "Spell": "Yaan",
+      "Longitude": "103.000000",
+      "Latitude": "29.980000",
+      "Firstletter": "ya"
+    },
+    {
+      "CityId": 511900,
+      "ProvinceId": 510000,
+      "Name": "巴中",
+      "Spell": "Bazhong",
+      "Longitude": "106.770000",
+      "Latitude": "31.850000",
+      "Firstletter": "bz"
+    },
+    {
+      "CityId": 512000,
+      "ProvinceId": 510000,
+      "Name": "资阳",
+      "Spell": "Ziyang",
+      "Longitude": "104.600000",
+      "Latitude": "30.190000",
+      "Firstletter": "zy"
+    },
+    {
+      "CityId": 513200,
+      "ProvinceId": 510000,
+      "Name": "阿坝藏族羌族自治州",
+      "Spell": "Abacangzuqiangzuzizhizhou",
+      "Longitude": "101.720000",
+      "Latitude": "31.930000",
+      "Firstletter": "ab"
+    },
+    {
+      "CityId": 513300,
+      "ProvinceId": 510000,
+      "Name": "甘孜藏族自治州",
+      "Spell": "Ganzicangzuzizhizhou",
+      "Longitude": "99.960000",
+      "Latitude": "31.640000",
+      "Firstletter": "gz"
+    },
+    {
+      "CityId": 513400,
+      "ProvinceId": 510000,
+      "Name": "凉山彝族自治州",
+      "Spell": "Liangshanyizuzizhizhou",
+      "Longitude": "102.270000",
+      "Latitude": "27.900000",
+      "Firstletter": "ls"
+    },
+    {
+      "CityId": 520100,
+      "ProvinceId": 520000,
+      "Name": "贵阳",
+      "Spell": "Guiyang",
+      "Longitude": "106.630000",
+      "Latitude": "26.650000",
+      "Firstletter": "gy"
+    },
+    {
+      "CityId": 520200,
+      "ProvinceId": 520000,
+      "Name": "六盘水",
+      "Spell": "Liupanshui",
+      "Longitude": "104.830000",
+      "Latitude": "26.600000",
+      "Firstletter": "lps"
+    },
+    {
+      "CityId": 520300,
+      "ProvinceId": 520000,
+      "Name": "遵义",
+      "Spell": "Zunyi",
+      "Longitude": "106.900000",
+      "Latitude": "27.700000",
+      "Firstletter": "zy"
+    },
+    {
+      "CityId": 520400,
+      "ProvinceId": 520000,
+      "Name": "安顺",
+      "Spell": "Anshun",
+      "Longitude": "105.950000",
+      "Latitude": "26.250000",
+      "Firstletter": "as"
+    },
+    {
+      "CityId": 522200,
+      "ProvinceId": 520000,
+      "Name": "铜仁地区",
+      "Spell": "Tongrendiqu",
+      "Longitude": "109.210000",
+      "Latitude": "27.730000",
+      "Firstletter": "tr"
+    },
+    {
+      "CityId": 522300,
+      "ProvinceId": 520000,
+      "Name": "黔西南布依族苗族自治州",
+      "Spell": "Qianxinanbuyizumiaozuzizhizhou",
+      "Longitude": "106.040000",
+      "Latitude": "27.030000",
+      "Firstletter": "qxn"
+    },
+    {
+      "CityId": 522400,
+      "ProvinceId": 520000,
+      "Name": "毕节地区",
+      "Spell": "Bijiediqu",
+      "Longitude": "105.290000",
+      "Latitude": "27.320000",
+      "Firstletter": "bj"
+    },
+    {
+      "CityId": 522600,
+      "ProvinceId": 520000,
+      "Name": "黔东南苗族侗族自治州",
+      "Spell": "Qiandongnanmiaozudongzuzizhizhou",
+      "Longitude": "107.970000",
+      "Latitude": "26.580000",
+      "Firstletter": "qdn"
+    },
+    {
+      "CityId": 522700,
+      "ProvinceId": 520000,
+      "Name": "黔南布依族苗族自治州",
+      "Spell": "Qiannanbuyizumiaozuzizhizhou",
+      "Longitude": "107.520000",
+      "Latitude": "26.270000",
+      "Firstletter": "qn"
+    },
+    {
+      "CityId": 530100,
+      "ProvinceId": 530000,
+      "Name": "昆明",
+      "Spell": "Kunming",
+      "Longitude": "102.720000",
+      "Latitude": "25.050000",
+      "Firstletter": "km"
+    },
+    {
+      "CityId": 530300,
+      "ProvinceId": 530000,
+      "Name": "曲靖",
+      "Spell": "Qujing",
+      "Longitude": "103.800000",
+      "Latitude": "25.500000",
+      "Firstletter": "qj"
+    },
+    {
+      "CityId": 530400,
+      "ProvinceId": 530000,
+      "Name": "玉溪",
+      "Spell": "Yuxi",
+      "Longitude": "102.550000",
+      "Latitude": "24.350000",
+      "Firstletter": "yx"
+    },
+    {
+      "CityId": 530500,
+      "ProvinceId": 530000,
+      "Name": "保山",
+      "Spell": "Baoshan",
+      "Longitude": "99.170000",
+      "Latitude": "25.120000",
+      "Firstletter": "bs"
+    },
+    {
+      "CityId": 530600,
+      "ProvinceId": 530000,
+      "Name": "昭通",
+      "Spell": "Zhaotong",
+      "Longitude": "103.720000",
+      "Latitude": "27.330000",
+      "Firstletter": "zt"
+    },
+    {
+      "CityId": 530700,
+      "ProvinceId": 530000,
+      "Name": "丽江",
+      "Spell": "Lijiang",
+      "Longitude": "100.230000",
+      "Latitude": "26.880000",
+      "Firstletter": "lj"
+    },
+    {
+      "CityId": 530800,
+      "ProvinceId": 530000,
+      "Name": "思茅",
+      "Spell": "Simao",
+      "Longitude": "101.000000",
+      "Latitude": "22.790000",
+      "Firstletter": "sm"
+    },
+    {
+      "CityId": 530900,
+      "ProvinceId": 530000,
+      "Name": "临沧",
+      "Spell": "Lincang",
+      "Longitude": "100.080000",
+      "Latitude": "23.880000",
+      "Firstletter": "lc"
+    },
+    {
+      "CityId": 532300,
+      "ProvinceId": 530000,
+      "Name": "楚雄",
+      "Spell": "Chuxiong",
+      "Longitude": "101.540000",
+      "Latitude": "25.010000",
+      "Firstletter": "cx"
+    },
+    {
+      "CityId": 532500,
+      "ProvinceId": 530000,
+      "Name": "红河",
+      "Spell": "Honghe",
+      "Longitude": "102.420000",
+      "Latitude": "23.350000",
+      "Firstletter": "hh"
+    },
+    {
+      "CityId": 532600,
+      "ProvinceId": 530000,
+      "Name": "文山",
+      "Spell": "Wenshanzhuangzumiaozuzizhizhou",
+      "Longitude": "104.240000",
+      "Latitude": "23.370000",
+      "Firstletter": "ws"
+    },
+    {
+      "CityId": 532800,
+      "ProvinceId": 530000,
+      "Name": "西双版纳",
+      "Spell": "Xishuangbanna",
+      "Longitude": "100.800000",
+      "Latitude": "22.020000",
+      "Firstletter": "xsbn"
+    },
+    {
+      "CityId": 532900,
+      "ProvinceId": 530000,
+      "Name": "大理",
+      "Spell": "Dali",
+      "Longitude": "100.190000",
+      "Latitude": "25.690000",
+      "Firstletter": "dl"
+    },
+    {
+      "CityId": 533100,
+      "ProvinceId": 530000,
+      "Name": "德宏",
+      "Spell": "Dehong",
+      "Longitude": "98.580000",
+      "Latitude": "24.430000",
+      "Firstletter": "dh"
+    },
+    {
+      "CityId": 533300,
+      "ProvinceId": 530000,
+      "Name": "怒江",
+      "Spell": "Nujiang",
+      "Longitude": "98.850000",
+      "Latitude": "25.850000",
+      "Firstletter": "nj"
+    },
+    {
+      "CityId": 533400,
+      "ProvinceId": 530000,
+      "Name": "迪庆",
+      "Spell": "Diqing",
+      "Longitude": "99.700000",
+      "Latitude": "27.830000",
+      "Firstletter": "dq"
+    },
+    {
+      "CityId": 540100,
+      "ProvinceId": 540000,
+      "Name": "拉萨",
+      "Spell": "Lasa",
+      "Longitude": "91.130000",
+      "Latitude": "29.650000",
+      "Firstletter": "ls"
+    },
+    {
+      "CityId": 542100,
+      "ProvinceId": 540000,
+      "Name": "昌都地区",
+      "Spell": "Changdudiqu",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "cd"
+    },
+    {
+      "CityId": 542200,
+      "ProvinceId": 540000,
+      "Name": "山南地区",
+      "Spell": "Shannandiqu",
+      "Longitude": "91.770000",
+      "Latitude": "29.230000",
+      "Firstletter": "sn"
+    },
+    {
+      "CityId": 542300,
+      "ProvinceId": 540000,
+      "Name": "日喀则地区",
+      "Spell": "Rikazediqu",
+      "Longitude": "88.820000",
+      "Latitude": "29.280000",
+      "Firstletter": "rkz"
+    },
+    {
+      "CityId": 542400,
+      "ProvinceId": 540000,
+      "Name": "那曲地区",
+      "Spell": "Naqudiqu",
+      "Longitude": "92.100000",
+      "Latitude": "31.470000",
+      "Firstletter": "nq"
+    },
+    {
+      "CityId": 542500,
+      "ProvinceId": 540000,
+      "Name": "阿里地区",
+      "Spell": "Alidiqu",
+      "Longitude": "80.100000",
+      "Latitude": "32.500000",
+      "Firstletter": "al"
+    },
+    {
+      "CityId": 542600,
+      "ProvinceId": 540000,
+      "Name": "林芝地区",
+      "Spell": "Linzhidiqu",
+      "Longitude": "94.250000",
+      "Latitude": "29.590000",
+      "Firstletter": "lz"
+    },
+    {
+      "CityId": 610100,
+      "ProvinceId": 610000,
+      "Name": "西安",
+      "Spell": "Xian",
+      "Longitude": "108.950000",
+      "Latitude": "34.270000",
+      "Firstletter": "xa"
+    },
+    {
+      "CityId": 610200,
+      "ProvinceId": 610000,
+      "Name": "铜川",
+      "Spell": "Tongchuan",
+      "Longitude": "108.930000",
+      "Latitude": "34.900000",
+      "Firstletter": "tc"
+    },
+    {
+      "CityId": 610300,
+      "ProvinceId": 610000,
+      "Name": "宝鸡",
+      "Spell": "Baoji",
+      "Longitude": "107.130000",
+      "Latitude": "34.370000",
+      "Firstletter": "bj"
+    },
+    {
+      "CityId": 610400,
+      "ProvinceId": 610000,
+      "Name": "咸阳",
+      "Spell": "Xianyang",
+      "Longitude": "108.700000",
+      "Latitude": "34.330000",
+      "Firstletter": "xy"
+    },
+    {
+      "CityId": 610500,
+      "ProvinceId": 610000,
+      "Name": "渭南",
+      "Spell": "Weinan",
+      "Longitude": "109.500000",
+      "Latitude": "34.500000",
+      "Firstletter": "wn"
+    },
+    {
+      "CityId": 610600,
+      "ProvinceId": 610000,
+      "Name": "延安",
+      "Spell": "Yanan",
+      "Longitude": "109.480000",
+      "Latitude": "36.600000",
+      "Firstletter": "ya"
+    },
+    {
+      "CityId": 610700,
+      "ProvinceId": 610000,
+      "Name": "汉中",
+      "Spell": "Hanzhong",
+      "Longitude": "107.020000",
+      "Latitude": "33.070000",
+      "Firstletter": "hz"
+    },
+    {
+      "CityId": 610800,
+      "ProvinceId": 610000,
+      "Name": "榆林",
+      "Spell": "Yulin",
+      "Longitude": "109.730000",
+      "Latitude": "38.280000",
+      "Firstletter": "yl"
+    },
+    {
+      "CityId": 610900,
+      "ProvinceId": 610000,
+      "Name": "安康",
+      "Spell": "Ankang",
+      "Longitude": "109.020000",
+      "Latitude": "32.680000",
+      "Firstletter": "ak"
+    },
+    {
+      "CityId": 611000,
+      "ProvinceId": 610000,
+      "Name": "商洛",
+      "Spell": "Shangluo",
+      "Longitude": "109.930000",
+      "Latitude": "33.870000",
+      "Firstletter": "sl"
+    },
+    {
+      "CityId": 620100,
+      "ProvinceId": 620000,
+      "Name": "兰州",
+      "Spell": "Lanzhou",
+      "Longitude": "103.820000",
+      "Latitude": "36.070000",
+      "Firstletter": "lz"
+    },
+    {
+      "CityId": 620200,
+      "ProvinceId": 620000,
+      "Name": "嘉峪关",
+      "Spell": "Jiayuguan",
+      "Longitude": "98.270000",
+      "Latitude": "39.800000",
+      "Firstletter": "jyg"
+    },
+    {
+      "CityId": 620300,
+      "ProvinceId": 620000,
+      "Name": "金昌",
+      "Spell": "Jinchang",
+      "Longitude": "102.180000",
+      "Latitude": "38.500000",
+      "Firstletter": "jc"
+    },
+    {
+      "CityId": 620400,
+      "ProvinceId": 620000,
+      "Name": "白银",
+      "Spell": "Baiyin",
+      "Longitude": "104.120000",
+      "Latitude": "36.330000",
+      "Firstletter": "by"
+    },
+    {
+      "CityId": 620500,
+      "ProvinceId": 620000,
+      "Name": "天水",
+      "Spell": "Tianshui",
+      "Longitude": "105.720000",
+      "Latitude": "34.580000",
+      "Firstletter": "ts"
+    },
+    {
+      "CityId": 620600,
+      "ProvinceId": 620000,
+      "Name": "武威",
+      "Spell": "Wuwei",
+      "Longitude": "102.630000",
+      "Latitude": "37.930000",
+      "Firstletter": "ww"
+    },
+    {
+      "CityId": 620700,
+      "ProvinceId": 620000,
+      "Name": "张掖",
+      "Spell": "Zhangye",
+      "Longitude": "100.450000",
+      "Latitude": "38.930000",
+      "Firstletter": "zy"
+    },
+    {
+      "CityId": 620800,
+      "ProvinceId": 620000,
+      "Name": "平凉",
+      "Spell": "Pingliang",
+      "Longitude": "106.670000",
+      "Latitude": "35.550000",
+      "Firstletter": "pl"
+    },
+    {
+      "CityId": 620900,
+      "ProvinceId": 620000,
+      "Name": "酒泉",
+      "Spell": "Jiuquan",
+      "Longitude": "98.520000",
+      "Latitude": "39.750000",
+      "Firstletter": "jq"
+    },
+    {
+      "CityId": 621000,
+      "ProvinceId": 620000,
+      "Name": "庆阳",
+      "Spell": "Qingyang",
+      "Longitude": "107.630000",
+      "Latitude": "35.730000",
+      "Firstletter": "qy"
+    },
+    {
+      "CityId": 621100,
+      "ProvinceId": 620000,
+      "Name": "定西",
+      "Spell": "Dingxi",
+      "Longitude": "104.620000",
+      "Latitude": "35.580000",
+      "Firstletter": "dx"
+    },
+    {
+      "CityId": 621200,
+      "ProvinceId": 620000,
+      "Name": "陇南",
+      "Spell": "Longnan",
+      "Longitude": "104.920000",
+      "Latitude": "33.400000",
+      "Firstletter": "ln"
+    },
+    {
+      "CityId": 622900,
+      "ProvinceId": 620000,
+      "Name": "临夏回族自治州",
+      "Spell": "Linxiahuizuzizhizhou",
+      "Longitude": "103.220000",
+      "Latitude": "35.620000",
+      "Firstletter": "lx"
+    },
+    {
+      "CityId": 623000,
+      "ProvinceId": 620000,
+      "Name": "甘南藏族自治州",
+      "Spell": "Gannancangzuzizhizhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "gn"
+    },
+    {
+      "CityId": 630100,
+      "ProvinceId": 630000,
+      "Name": "西宁",
+      "Spell": "Xining",
+      "Longitude": "101.780000",
+      "Latitude": "36.620000",
+      "Firstletter": "xn"
+    },
+    {
+      "CityId": 632100,
+      "ProvinceId": 630000,
+      "Name": "海东地区",
+      "Spell": "Haidongdiqu",
+      "Longitude": "102.120000",
+      "Latitude": "36.500000",
+      "Firstletter": "hd"
+    },
+    {
+      "CityId": 632200,
+      "ProvinceId": 630000,
+      "Name": "海北藏族自治州",
+      "Spell": "Haibeicangzuzizhizhou",
+      "Longitude": "100.900000",
+      "Latitude": "36.970000",
+      "Firstletter": "hb"
+    },
+    {
+      "CityId": 632300,
+      "ProvinceId": 630000,
+      "Name": "黄南藏族自治州",
+      "Spell": "Huangnancangzuzizhizhou",
+      "Longitude": "102.020000",
+      "Latitude": "35.520000",
+      "Firstletter": "hn"
+    },
+    {
+      "CityId": 632500,
+      "ProvinceId": 630000,
+      "Name": "海南藏族自治州",
+      "Spell": "Hainancangzuzizhizhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "hn"
+    },
+    {
+      "CityId": 632600,
+      "ProvinceId": 630000,
+      "Name": "果洛藏族自治州",
+      "Spell": "Guoluocangzuzizhizhou",
+      "Longitude": "100.230000",
+      "Latitude": "34.480000",
+      "Firstletter": "gl"
+    },
+    {
+      "CityId": 632700,
+      "ProvinceId": 630000,
+      "Name": "玉树藏族自治州",
+      "Spell": "Yushucangzuzizhizhou",
+      "Longitude": "96.970000",
+      "Latitude": "33.030000",
+      "Firstletter": "ys"
+    },
+    {
+      "CityId": 632800,
+      "ProvinceId": 630000,
+      "Name": "海西蒙古族藏族自治州",
+      "Spell": "Haiximengguzucangzuzizhizhou",
+      "Longitude": "97.370000",
+      "Latitude": "37.370000",
+      "Firstletter": "hx"
+    },
+    {
+      "CityId": 640100,
+      "ProvinceId": 640000,
+      "Name": "银川",
+      "Spell": "Yinchuan",
+      "Longitude": "106.280000",
+      "Latitude": "38.470000",
+      "Firstletter": "yc"
+    },
+    {
+      "CityId": 640200,
+      "ProvinceId": 640000,
+      "Name": "石嘴山",
+      "Spell": "Shizuishan",
+      "Longitude": "106.380000",
+      "Latitude": "39.020000",
+      "Firstletter": "szs"
+    },
+    {
+      "CityId": 640300,
+      "ProvinceId": 640000,
+      "Name": "吴忠",
+      "Spell": "Wuzhong",
+      "Longitude": "106.200000",
+      "Latitude": "37.980000",
+      "Firstletter": "wz"
+    },
+    {
+      "CityId": 640400,
+      "ProvinceId": 640000,
+      "Name": "固原",
+      "Spell": "Guyuan",
+      "Longitude": "106.280000",
+      "Latitude": "36.000000",
+      "Firstletter": "gy"
+    },
+    {
+      "CityId": 640500,
+      "ProvinceId": 640000,
+      "Name": "中卫",
+      "Spell": "Zhongwei",
+      "Longitude": "105.180000",
+      "Latitude": "37.520000",
+      "Firstletter": "zw"
+    },
+    {
+      "CityId": 650100,
+      "ProvinceId": 650000,
+      "Name": "乌鲁木齐",
+      "Spell": "Wulumuqi",
+      "Longitude": "87.680000",
+      "Latitude": "43.770000",
+      "Firstletter": "wlmq"
+    },
+    {
+      "CityId": 650200,
+      "ProvinceId": 650000,
+      "Name": "克拉玛依",
+      "Spell": "Kelamayi",
+      "Longitude": "84.770000",
+      "Latitude": "45.590000",
+      "Firstletter": "klmy"
+    },
+    {
+      "CityId": 652100,
+      "ProvinceId": 650000,
+      "Name": "吐鲁番地区",
+      "Spell": "Tulufandiqu",
+      "Longitude": "89.190000",
+      "Latitude": "42.910000",
+      "Firstletter": "tlf"
+    },
+    {
+      "CityId": 652200,
+      "ProvinceId": 650000,
+      "Name": "哈密地区",
+      "Spell": "Hamidiqu",
+      "Longitude": "93.440000",
+      "Latitude": "42.780000",
+      "Firstletter": "hm"
+    },
+    {
+      "CityId": 652300,
+      "ProvinceId": 650000,
+      "Name": "昌吉回族自治州",
+      "Spell": "Changjihuizuzizhizhou",
+      "Longitude": "87.310000",
+      "Latitude": "44.050000",
+      "Firstletter": "cj"
+    },
+    {
+      "CityId": 652700,
+      "ProvinceId": 650000,
+      "Name": "博尔塔拉蒙古自治州",
+      "Spell": "Boertalamengguzizhizhou",
+      "Longitude": "82.070000",
+      "Latitude": "44.900000",
+      "Firstletter": "betl"
+    },
+    {
+      "CityId": 652800,
+      "ProvinceId": 650000,
+      "Name": "巴音郭楞蒙古自治州",
+      "Spell": "Bayinguolengmengguzizhizhou",
+      "Longitude": "86.150000",
+      "Latitude": "41.770000",
+      "Firstletter": "bygl"
+    },
+    {
+      "CityId": 652900,
+      "ProvinceId": 650000,
+      "Name": "阿克苏地区",
+      "Spell": "Akesudiqu",
+      "Longitude": "80.290000",
+      "Latitude": "41.150000",
+      "Firstletter": "aks"
+    },
+    {
+      "CityId": 653000,
+      "ProvinceId": 650000,
+      "Name": "克孜勒苏柯尔克孜自治州",
+      "Spell": "Kezilesukeerkezizizhizhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "kzlskekz"
+    },
+    {
+      "CityId": 653100,
+      "ProvinceId": 650000,
+      "Name": "喀什地区",
+      "Spell": "Kashidiqu",
+      "Longitude": "75.590000",
+      "Latitude": "39.300000",
+      "Firstletter": "ks"
+    },
+    {
+      "CityId": 653200,
+      "ProvinceId": 650000,
+      "Name": "和田地区",
+      "Spell": "Hetiandiqu",
+      "Longitude": "79.940000",
+      "Latitude": "37.120000",
+      "Firstletter": "ht"
+    },
+    {
+      "CityId": 654000,
+      "ProvinceId": 650000,
+      "Name": "伊犁哈萨克自治州",
+      "Spell": "Yilihasakezizhizhou",
+      "Longitude": "81.320000",
+      "Latitude": "43.920000",
+      "Firstletter": "ylhsk"
+    },
+    {
+      "CityId": 654200,
+      "ProvinceId": 650000,
+      "Name": "塔城地区",
+      "Spell": "Tachengdiqu",
+      "Longitude": "82.960000",
+      "Latitude": "46.740000",
+      "Firstletter": "tc"
+    },
+    {
+      "CityId": 654300,
+      "ProvinceId": 650000,
+      "Name": "阿勒泰地区",
+      "Spell": "Aletaidiqu",
+      "Longitude": "88.140000",
+      "Latitude": "47.860000",
+      "Firstletter": "alt"
+    },
+    {
+      "CityId": 659000,
+      "ProvinceId": 650000,
+      "Name": "省直辖",
+      "Spell": "Shengzhixiaxingzhengdanwei",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "——"
+    },
+    {
+      "CityId": 810100,
+      "ProvinceId": 810000,
+      "Name": "香港岛",
+      "Spell": null,
+      "Longitude": "114.100000",
+      "Latitude": "22.200000",
+      "Firstletter": "xgd"
+    },
+    {
+      "CityId": 810200,
+      "ProvinceId": 810000,
+      "Name": "九龙半岛",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "jlbd"
+    },
+    {
+      "CityId": 810300,
+      "ProvinceId": 810000,
+      "Name": "新界",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "xj"
+    },
+    {
+      "CityId": 820100,
+      "ProvinceId": 820000,
+      "Name": "澳门半岛",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "ambd"
+    },
+    {
+      "CityId": 820200,
+      "ProvinceId": 820000,
+      "Name": "氹仔岛",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "dzd"
+    },
+    {
+      "CityId": 820300,
+      "ProvinceId": 820000,
+      "Name": "路环岛",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "lhd"
+    },
+    {
+      "CityId": 820400,
+      "ProvinceId": 820000,
+      "Name": "路氹城",
+      "Spell": null,
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "ldc"
+    },
+    {
+      "CityId": 911000,
+      "ProvinceId": 910000,
+      "Name": "美国",
+      "Spell": "Meiguo",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "mg"
+    },
+    {
+      "CityId": 911100,
+      "ProvinceId": 910000,
+      "Name": "越南",
+      "Spell": "Yuenan",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "yn"
+    },
+    {
+      "CityId": 911200,
+      "ProvinceId": 910000,
+      "Name": "韩国",
+      "Spell": "Hanguo",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "hg"
+    },
+    {
+      "CityId": 911300,
+      "ProvinceId": 910000,
+      "Name": "泰国",
+      "Spell": "Taiguo",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "tg"
+    },
+    {
+      "CityId": 911400,
+      "ProvinceId": 910000,
+      "Name": "马来西亚",
+      "Spell": "Malaixiya",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "mlxy"
+    },
+    {
+      "CityId": 911500,
+      "ProvinceId": 910000,
+      "Name": "印度尼西亚",
+      "Spell": "Yindunixiya",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "ydnxy"
+    },
+    {
+      "CityId": 911600,
+      "ProvinceId": 910000,
+      "Name": "南非",
+      "Spell": "Nanfei",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "nf"
+    },
+    {
+      "CityId": 911700,
+      "ProvinceId": 910000,
+      "Name": "毛里求斯",
+      "Spell": "Maoliqiusi",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "mlqs"
+    },
+    {
+      "CityId": 912000,
+      "ProvinceId": 910000,
+      "Name": "英国",
+      "Spell": "Yingguo",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "yg"
+    },
+    {
+      "CityId": 913000,
+      "ProvinceId": 910000,
+      "Name": "澳洲",
+      "Spell": "Aozhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "az"
+    },
+    {
+      "CityId": 914000,
+      "ProvinceId": 910000,
+      "Name": "法国",
+      "Spell": "Faguo",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "fg"
+    },
+    {
+      "CityId": 915000,
+      "ProvinceId": 910000,
+      "Name": "欧洲",
+      "Spell": "Ouzhou",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "oz"
+    },
+    {
+      "CityId": 916000,
+      "ProvinceId": 910000,
+      "Name": "新加坡",
+      "Spell": "Xinjiapo",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "xjp"
+    },
+    {
+      "CityId": 917000,
+      "ProvinceId": 910000,
+      "Name": "塞班",
+      "Spell": "Saiban",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "sb"
+    },
+    {
+      "CityId": 918000,
+      "ProvinceId": 910000,
+      "Name": "迪拜",
+      "Spell": "Dibai",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "db"
+    },
+    {
+      "CityId": 919000,
+      "ProvinceId": 910000,
+      "Name": "斐济",
+      "Spell": "Feiji",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "Firstletter": "fj"
+    }
+  ]
+}

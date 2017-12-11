@@ -1,0 +1,50 @@
+{
+  "@odata.context": "http://promotion.molisan.cn/odata/$metadata#AdvContents",
+  "value": [
+    {
+      "AdvContentId": 1,
+      "GongzhonghaoId": 7,
+      "ContentType": 1,
+      "Name": "A",
+      "Description": "aa",
+      "ResourcePath": "http://promotion.molisan.cn/content/images/Ads/5a20b38eN8f994ec6.jpg",
+      "DisplayOrder": 1
+    },
+    {
+      "AdvContentId": 2,
+      "GongzhonghaoId": 7,
+      "ContentType": 1,
+      "Name": "B",
+      "Description": "bb",
+      "ResourcePath": "http://promotion.molisan.cn/content/images/Ads/5a20b378Nd9d048e4.jpg",
+      "DisplayOrder": 2
+    },
+    {
+      "AdvContentId": 4,
+      "GongzhonghaoId": 5,
+      "ContentType": 1,
+      "Name": "C",
+      "Description": "cc",
+      "ResourcePath": "http://promotion.molisan.cn/content/images/Ads/58ca5d83Nfa475ede.jpg",
+      "DisplayOrder": 1
+    },
+    {
+      "AdvContentId": 5,
+      "GongzhonghaoId": 5,
+      "ContentType": 1,
+      "Name": "D",
+      "Description": "dd",
+      "ResourcePath": "http://promotion.molisan.cn/content/images/Ads/59ddc949Nf73da05a.png",
+      "DisplayOrder": 2
+    },
+    {
+      "AdvContentId": 6,
+      "GongzhonghaoId": 8,
+      "ContentType": 1,
+      "Name": "E",
+      "Description": null,
+      "ResourcePath": "http://promotion.molisan.cn/content/images/Ads/578dbfe7N7b6b3c8d.jpg",
+      "DisplayOrder": 1
+    }
+  ]
+}

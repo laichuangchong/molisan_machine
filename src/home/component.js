@@ -49,6 +49,14 @@ class HomeUi extends React.Component {
                                 <TabBarLabel>设备</TabBarLabel>
                             </Link>
                         </TabBarItem>
+                        <TabBarItem active={data.tab == 'goods'}>
+                            <Link to={'/home/goods'}>
+                                <TabBarIcon>
+                                    <img src={machineIcon} />
+                                </TabBarIcon>
+                                <TabBarLabel>商品</TabBarLabel>
+                            </Link>
+                        </TabBarItem>
                     </TabBar>
                 </Tab>
             </div>

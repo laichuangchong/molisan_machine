@@ -1,0 +1,33 @@
+{
+  "@odata.context": "http://promotion.molisan.cn/odata/$metadata#VendingMachines",
+"value": [
+{
+"VendingMachineId": 1,
+"MacAddress": "1C:CA:E3:37:02:39",
+"Name": "上海总部01",
+"Description": "上海总部测试机器01",
+"Longitude": "10000.20",
+"Latitude": "10002.59",
+"DistrictId": 0,
+"CityId": 100,
+"ProviceId": 2000,
+"Address": "上海市徐汇区石龙路567-4临",
+"MachineType": 1,
+"IsEnable": 1
+},
+{
+"VendingMachineId": 2,
+"MacAddress": "2.3.4.5",
+"Name": "上海总部02",
+"Description": "上海总部测试机器02",
+"Longitude": "2000.123",
+"Latitude": "21212.5453",
+"DistrictId": 0,
+"CityId": 101,
+"ProviceId": 2000,
+"Address": "上海市徐汇区石龙路02",
+"MachineType": 1,
+"IsEnable": 1
+}
+]
+}

@@ -30,11 +30,12 @@ const routes = [
             })
         },
         getChildRoutes(location, callback) {
-            require.ensure([], function (require) {
+            require.ensure([], function (require) {  
                 callback(null, [
                     require('./src/routes/subscription'),
                     require('./src/routes/advertisement'),
-                    require('./src/routes/machine')
+                    require('./src/routes/machine'),
+                    require('./src/routes/goods')
                 ])
             })
         },
@@ -77,7 +78,7 @@ const routes = [
         }
     },
     {
-        path: url + '/machine/add(/:id)',
+        path: url + '/machine/add',
         getComponents(location, callback) {
             require.ensure([], function (require) {
                 callback(null, require('./src/machine/add').default)
@@ -89,6 +90,22 @@ const routes = [
         getComponents(location, callback) {
             require.ensure([], function (require) {
                 callback(null, require('./src/machine/add').default)
+            })
+        }
+    },
+    {
+        path: url + '/goods/add',
+        getComponents(location, callback) {
+            require.ensure([], function (require) {
+                callback(null, require('./src/goods/add').default)
+            })
+        }
+    },
+    {
+        path: url + '/goods/edit/:id',
+        getComponents(location, callback) {
+            require.ensure([], function (require) {
+                callback(null, require('./src/goods/add').default)
             })
         }
     },

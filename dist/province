@@ -1,0 +1,250 @@
+{
+  "@odata.context": "http://promotion.molisan.cn/odata/$metadata#Provinces",
+  "value": [
+    {
+      "ProvinceId": 110000,
+      "Name": "北京",
+      "Longitude": "116.240000",
+      "Latitude": "39.550000",
+      "SimpleName": "京"
+    },
+    {
+      "ProvinceId": 120000,
+      "Name": "天津",
+      "Longitude": "117.120000",
+      "Latitude": "39.020000",
+      "SimpleName": "津"
+    },
+    {
+      "ProvinceId": 130000,
+      "Name": "河北",
+      "Longitude": "114.300000",
+      "Latitude": "38.020000",
+      "SimpleName": "冀"
+    },
+    {
+      "ProvinceId": 140000,
+      "Name": "山西",
+      "Longitude": "112.330000",
+      "Latitude": "37.540000",
+      "SimpleName": "晋"
+    },
+    {
+      "ProvinceId": 150000,
+      "Name": "内蒙古",
+      "Longitude": "111.410000",
+      "Latitude": "40.480000",
+      "SimpleName": "蒙"
+    },
+    {
+      "ProvinceId": 210000,
+      "Name": "辽宁",
+      "Longitude": "123.250000",
+      "Latitude": "41.480000",
+      "SimpleName": "辽"
+    },
+    {
+      "ProvinceId": 220000,
+      "Name": "吉林",
+      "Longitude": "125.190000",
+      "Latitude": "43.540000",
+      "SimpleName": "吉"
+    },
+    {
+      "ProvinceId": 230000,
+      "Name": "黑龙江",
+      "Longitude": "126.360000",
+      "Latitude": "45.440000",
+      "SimpleName": "黑"
+    },
+    {
+      "ProvinceId": 310000,
+      "Name": "上海",
+      "Longitude": "121.290000",
+      "Latitude": "31.140000",
+      "SimpleName": "沪"
+    },
+    {
+      "ProvinceId": 320000,
+      "Name": "江苏",
+      "Longitude": "118.460000",
+      "Latitude": "32.030000",
+      "SimpleName": "苏"
+    },
+    {
+      "ProvinceId": 330000,
+      "Name": "浙江",
+      "Longitude": "120.100000",
+      "Latitude": "30.160000",
+      "SimpleName": "浙"
+    },
+    {
+      "ProvinceId": 340000,
+      "Name": "安徽",
+      "Longitude": "117.170000",
+      "Latitude": "31.520000",
+      "SimpleName": "皖"
+    },
+    {
+      "ProvinceId": 350000,
+      "Name": "福建",
+      "Longitude": "119.180000",
+      "Latitude": "26.050000",
+      "SimpleName": "闽"
+    },
+    {
+      "ProvinceId": 360000,
+      "Name": "江西",
+      "Longitude": "115.550000",
+      "Latitude": "28.400000",
+      "SimpleName": "赣"
+    },
+    {
+      "ProvinceId": 370000,
+      "Name": "山东",
+      "Longitude": "117.000000",
+      "Latitude": "36.400000",
+      "SimpleName": "鲁"
+    },
+    {
+      "ProvinceId": 410000,
+      "Name": "河南",
+      "Longitude": "113.400000",
+      "Latitude": "34.460000",
+      "SimpleName": "豫"
+    },
+    {
+      "ProvinceId": 420000,
+      "Name": "湖北",
+      "Longitude": "114.170000",
+      "Latitude": "30.350000",
+      "SimpleName": "鄂"
+    },
+    {
+      "ProvinceId": 430000,
+      "Name": "湖南",
+      "Longitude": "112.590000",
+      "Latitude": "28.120000",
+      "SimpleName": "湘"
+    },
+    {
+      "ProvinceId": 440000,
+      "Name": "广东",
+      "Longitude": "113.140000",
+      "Latitude": "23.080000",
+      "SimpleName": "粤"
+    },
+    {
+      "ProvinceId": 450000,
+      "Name": "广西",
+      "Longitude": "108.190000",
+      "Latitude": "22.480000",
+      "SimpleName": "桂"
+    },
+    {
+      "ProvinceId": 460000,
+      "Name": "海南",
+      "Longitude": "110.200000",
+      "Latitude": "20.020000",
+      "SimpleName": "琼"
+    },
+    {
+      "ProvinceId": 500000,
+      "Name": "重庆",
+      "Longitude": "106.540000",
+      "Latitude": "29.590000",
+      "SimpleName": "渝"
+    },
+    {
+      "ProvinceId": 510000,
+      "Name": "四川",
+      "Longitude": "104.040000",
+      "Latitude": "30.400000",
+      "SimpleName": "川"
+    },
+    {
+      "ProvinceId": 520000,
+      "Name": "贵州",
+      "Longitude": "106.420000",
+      "Latitude": "26.350000",
+      "SimpleName": "贵"
+    },
+    {
+      "ProvinceId": 530000,
+      "Name": "云南",
+      "Longitude": "102.420000",
+      "Latitude": "25.040000",
+      "SimpleName": "滇"
+    },
+    {
+      "ProvinceId": 540000,
+      "Name": "西藏",
+      "Longitude": "91.080000",
+      "Latitude": "29.390000",
+      "SimpleName": "藏"
+    },
+    {
+      "ProvinceId": 610000,
+      "Name": "陕西",
+      "Longitude": "108.570000",
+      "Latitude": "34.170000",
+      "SimpleName": "陕"
+    },
+    {
+      "ProvinceId": 620000,
+      "Name": "甘肃",
+      "Longitude": "103.510000",
+      "Latitude": "36.040000",
+      "SimpleName": "甘"
+    },
+    {
+      "ProvinceId": 630000,
+      "Name": "青海",
+      "Longitude": "101.480000",
+      "Latitude": "36.380000",
+      "SimpleName": "青"
+    },
+    {
+      "ProvinceId": 640000,
+      "Name": "宁夏",
+      "Longitude": "106.160000",
+      "Latitude": "38.270000",
+      "SimpleName": "宁"
+    },
+    {
+      "ProvinceId": 650000,
+      "Name": "新疆",
+      "Longitude": "87.360000",
+      "Latitude": "43.450000",
+      "SimpleName": "新"
+    },
+    {
+      "ProvinceId": 710000,
+      "Name": "台湾",
+      "Longitude": "121.300000",
+      "Latitude": "25.030000",
+      "SimpleName": "台"
+    },
+    {
+      "ProvinceId": 810000,
+      "Name": "香港",
+      "Longitude": "115.120000",
+      "Latitude": "21.230000",
+      "SimpleName": "港"
+    },
+    {
+      "ProvinceId": 820000,
+      "Name": "澳门",
+      "Longitude": "113.350000",
+      "Latitude": "22.140000",
+      "SimpleName": "澳"
+    },
+    {
+      "ProvinceId": 910000,
+      "Name": "境外",
+      "Longitude": "0.000000",
+      "Latitude": "0.000000",
+      "SimpleName": "外"
+    }
+  ]
+}

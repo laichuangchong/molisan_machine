@@ -43,13 +43,36 @@ class Advertisement extends React.Component{
             type:'TABBAR',
             tab:'advertisement'
         });
-        const url = xhrurl + '/odata/Gongzhonghaos?&$skip=' + skip + '&$top=' + inittop;
+        const url = xhrurl + '/odata/AdvContents?&$skip=' + skip + '&$top=' + inittop;
         XHR(this, url,'results');
+    }
+    handleSearch(text, e) { //搜索结果数据
+        e.preventDefault();
+        let url = '';
+        skip = 0;
+        searchText = text;
+        if ($.trim(searchText) == '') { //判断搜索内容是否为空，如果为空就显示全部数据
+            url = xhrurl + '/odata/AdvContents?&$skip=' + skip + '&$top=' + inittop
+        } else {
+            url = xhrurl + '/odata/AdvContents?$filter=Name eq \'' + searchText + '\'&$skip=' + skip + '&$top=' + inittop
+        }
+        XHR(this, url,'results');
+    }
+    moreList() { //加载更多
+        skip = skip + inittop;
+        let url = '';
+        if ($.trim(searchText) == '') { //判断搜索内容是否为空，如果为空就显示全部数据
+            url = xhrurl + '/odata/AdvContents?&$skip=' + skip + '&$top=' + inittop
+        } else {
+            url = xhrurl + '/odata/AdvContents?$filter=Name eq \'' + searchText + '\'&$skip=' + skip + '&$top=' + inittop
+        }
+        XHR(this, url, 'results','more');
     }
     render(){
         return(
             <div>
                 <SearchBar
+                    onSubmit={this.handleSearch.bind(this)}
                     placeholder="广告名称"
                     lang={{
                         cancel: 'Cancel'
@@ -74,6 +97,18 @@ class Advertisement extends React.Component{
                                 <Link to={'/advertisement/edit/5'}>22222</Link>
                             </MediaBoxBody>
                         </MediaBox>
+                        {
+                            this.state.results.map((item, index) => {
+                                return (
+                                    <MediaBox type="appmsg">
+                                        <MediaBoxBody>
+                                            <Link
+                                                to={'/advertisement/edit/' + item.AdvContentId}>{item.Name}</Link>
+                                        </MediaBoxBody>
+                                    </MediaBox>
+                                )
+                            })
+                        }
                     </PanelBody>
                     {this.state.showMore ? (
                         <PanelFooter onClick={this.moreList.bind(this)}>

@@ -1,0 +1,95 @@
+{
+  "@odata.context": "http://promotion.molisan.cn/odata/$metadata#MachineCapacities",
+  "value": [
+    {
+      "MachineCapacityId": 15,
+      "VendingMachineId": 2,
+      "Level": 1,
+      "Channel": 1,
+      "ChannelCapacity": 10,
+      "RemainCount": 10,
+      "ItemId": 1
+    },
+    {
+      "MachineCapacityId": 16,
+      "VendingMachineId": 2,
+      "Level": 1,
+      "Channel": 2,
+      "ChannelCapacity": 10,
+      "RemainCount": 10,
+      "ItemId": 1
+    },
+    {
+      "MachineCapacityId": 17,
+      "VendingMachineId": 2,
+      "Level": 1,
+      "Channel": 3,
+      "ChannelCapacity": 10,
+      "RemainCount": 2,
+      "ItemId": 1
+    },
+    {
+      "MachineCapacityId": 19,
+      "VendingMachineId": 2,
+      "Level": 1,
+      "Channel": 4,
+      "ChannelCapacity": 10,
+      "RemainCount": 3,
+      "ItemId": 1
+    },
+    {
+      "MachineCapacityId": 21,
+      "VendingMachineId": 2,
+      "Level": 1,
+      "Channel": 5,
+      "ChannelCapacity": 10,
+      "RemainCount": 9,
+      "ItemId": 1
+    },
+    {
+      "MachineCapacityId": 22,
+      "VendingMachineId": 2,
+      "Level": 2,
+      "Channel": 1,
+      "ChannelCapacity": 10,
+      "RemainCount": 8,
+      "ItemId": 2
+    },
+    {
+      "MachineCapacityId": 23,
+      "VendingMachineId": 2,
+      "Level": 2,
+      "Channel": 2,
+      "ChannelCapacity": 10,
+      "RemainCount": 5,
+      "ItemId": 2
+    },
+    {
+      "MachineCapacityId": 24,
+      "VendingMachineId": 2,
+      "Level": 2,
+      "Channel": 3,
+      "ChannelCapacity": 10,
+      "RemainCount": 10,
+      "ItemId": 2
+    },
+    {
+      "MachineCapacityId": 25,
+      "VendingMachineId": 2,
+      "Level": 2,
+      "Channel": 4,
+      "ChannelCapacity": 10,
+      "RemainCount": 10,
+      "ItemId": 2
+    },
+    {
+      "MachineCapacityId": 26,
+      "VendingMachineId": 2,
+      "Level": 2,
+      "Channel": 5,
+      "ChannelCapacity": 10,
+      "RemainCount": 8,
+      "ItemId": 2
+    }
+  ]
+}

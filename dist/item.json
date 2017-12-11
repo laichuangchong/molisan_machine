@@ -1,0 +1,21 @@
+{
+  "@odata.context": "http://promotion.molisan.cn/odata/$metadata#Items",
+  "value": [
+    {
+      "ItemId": 1,
+      "Name": "可乐",
+      "Description": "可口可乐",
+      "Price": 3.5,
+      "BarCode": "623123466789",
+      "Picture": "http://promotion.molisan.cn/content/images/items/58bfce03N1e4de372.jpg"
+    },
+    {
+      "ItemId": 2,
+      "Name": "果汁",
+      "Description": "美之源果汁",
+      "Price": 4,
+      "BarCode": "623125478856",
+      "Picture": "http://promotion.molisan.cn/content/images/items/578dbfe7N7b6b3c8d.jpg"
+    }
+  ]
+}

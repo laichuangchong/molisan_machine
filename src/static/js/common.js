@@ -1,6 +1,45 @@
 import update from 'react-addons-update';
 import weui from 'weui.js';
-const inittop = 1;//一页显示几条
+import store from '../../store';
+const inittop = 10;//一页显示几条
+const location =[];//地域数组
+$.ajax({ //获取省市
+    url:'./province',
+    type:'GET',
+    complete:function(data){
+        console.log(data);
+        const province = JSON.parse(data.responseText).value;
+        for(let i=0; i<province.length;i++){
+            location.push({value:province[i].ProvinceId,label:province[i].Name});
+        }
+        console.log(location);
+        $.ajax({//获取城市
+            url:'./city.json',
+            type:'GET',
+            complete:function(data){
+                const city = JSON.parse(data.responseText).value;
+                for(let i=0; i<location.length;i++){
+                    location[i].children= [];
+                    for(let j=0; j<city.length;j++){
+
+                        if(location[i].value == city[j].ProvinceId){
+
+                            location[i].children.push({label:city[j].Name,value:city[j].CityId});
+                        }
+                    }
+
+                }
+                console.log(location);
+                store.dispatch({
+                    type:'LOCATIONS',
+                    locations:location
+                })
+
+            }
+        });
+    }
+});
+
 module.exports = {
     initskip: 0, //翻页初始值
     inittop: inittop, //一页显示几条
